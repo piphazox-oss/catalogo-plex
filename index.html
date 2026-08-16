@@ -16,6 +16,7 @@
       --text-color: #ffffff;
       --muted-color: #9a9a9a;
       --border-color: #2c2f36;
+      --telegram-color: #2AABEE;
     }
 
     * {
@@ -250,6 +251,9 @@
     .info {
       padding: 12px;
       text-align: center;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
     }
 
     .titulo {
@@ -263,6 +267,36 @@
       font-size: 0.8rem;
       color: var(--muted-color);
       margin-top: 4px;
+    }
+
+    /* ---------- Botón de Telegram ---------- */
+    .boton-telegram {
+      margin-top: 10px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 7px 10px;
+      border-radius: 6px;
+      border: 1px solid var(--border-color);
+      background-color: transparent;
+      color: var(--muted-color);
+      font-size: 0.78rem;
+      text-decoration: none;
+      cursor: pointer;
+      transition: border-color 0.15s ease, color 0.15s ease, background-color 0.15s ease;
+    }
+
+    .boton-telegram:hover {
+      border-color: var(--telegram-color);
+      color: var(--telegram-color);
+      background-color: rgba(42, 171, 238, 0.08);
+    }
+
+    .boton-telegram svg {
+      width: 14px;
+      height: 14px;
+      flex-shrink: 0;
     }
 
     #sin-resultados {
@@ -336,6 +370,11 @@
     // (siempre que NO se haya usado "Export Individual Files").
     const CARPETA_IMAGENES = ".resources/";
 
+    // Usuario público del bot de Telegram (sin el @). No incluye ningún token:
+    // el link solo abre una conversación con el mensaje precargado, y es el
+    // propio visitante quien decide enviarlo desde su cuenta de Telegram.
+    const TELEGRAM_BOT_USERNAME = "melografia_bot";
+
     let peliculas = [];       // todas las películas, tal como vienen del JSON
     let tarjetasPorId = new Map();
 
@@ -374,6 +413,13 @@
       return res.toUpperCase(); // "4k" -> "4K", "sd" -> "SD", "2.7k" -> "2.7K"
     }
 
+    // ---------- Link de Telegram con mensaje precargado ----------
+    function enlaceTelegram(pelicula) {
+      const anio = pelicula.year ? ` (${pelicula.year})` : "";
+      const mensaje = `Hola! Te escribo sobre la película "${pelicula.title}"${anio}: `;
+      return `https://t.me/${TELEGRAM_BOT_USERNAME}?text=${encodeURIComponent(mensaje)}`;
+    }
+
     // ---------- Construcción de una tarjeta ----------
     function crearTarjeta(pelicula) {
       const tarjeta = document.createElement('div');
@@ -381,6 +427,7 @@
 
       const fallback = svgFallback(pelicula.title);
       const src = rutaPoster(pelicula);
+      const linkTelegram = enlaceTelegram(pelicula);
 
       tarjeta.innerHTML = `
         <img src="${src}"
@@ -391,6 +438,10 @@
         <div class="info">
           <p class="titulo">${pelicula.title}</p>
           <p class="anio">${pelicula.year || ""}</p>
+          <a class="boton-telegram" href="${linkTelegram}" target="_blank" rel="noopener noreferrer">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.94 4.11c-.29-.24-.71-.29-1.08-.14L2.4 11.13c-.5.2-.53.9-.04 1.14l4.55 2.28 2.02 6.28c.13.4.65.5.93.18l2.66-3.05 4.6 3.38c.39.29.95.08 1.06-.4l3.86-17.5c.09-.4-.1-.8-.1-.8s-.71-.02-1-.25zM8.6 13.9l9.13-6.62-7.4 7.94-.19 2.63-1.54-3.95z"/></svg>
+            Enviar mensaje
+          </a>
         </div>
       `;
       return tarjeta;

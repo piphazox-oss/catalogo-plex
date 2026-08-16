@@ -40096,6 +40096,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-16T13:23:50",
+        "audienceRating": 8.2,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 5288896,
+        "durationHuman": "1 hr 28 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/68fde9ecedee722917d6d7a1",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Leviticus (2026) [1080p] [WEBRip] [5.1] [YTS.GG - YTS.BZ]/Leviticus.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG - YTS.BZ].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2026-06-17",
+        "rating": 9.2,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11333,
+        "studio": "Causeway Films",
+        "summary": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
+        "tagline": "It will never stop.",
+        "thumbFile": "Movie - Leviticus [11333].resources/Leviticus [11333].thumb.jpg",
+        "title": "Leviticus",
+        "titleSort": "Leviticus",
+        "type": "movie",
+        "userRating": null,
+        "year": 2026,
+        "media": [
+            {
+                "aspectRatio": 2.35,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2639,
+                "container": "mp4",
+                "duration": 5288896,
+                "hdr": false,
+                "height": 800,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2023-10-22T11:11:32",
         "audienceRating": 7.1,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

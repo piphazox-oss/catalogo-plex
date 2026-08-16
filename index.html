@@ -305,6 +305,49 @@
       margin-top: 40px;
       display: none;
     }
+
+    /* ---------- Paginación ---------- */
+    #paginacion {
+      max-width: 1300px;
+      margin: 28px auto 10px auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    #paginacion.oculta {
+      display: none;
+    }
+
+    .boton-pagina {
+      padding: 9px 18px;
+      border-radius: 6px;
+      border: 1px solid var(--border-color);
+      background-color: var(--card-bg);
+      color: var(--text-color);
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: border-color 0.15s ease, color 0.15s ease;
+    }
+
+    .boton-pagina:hover:not(:disabled) {
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .boton-pagina:disabled {
+      opacity: 0.35;
+      cursor: not-allowed;
+    }
+
+    #info-pagina {
+      color: var(--muted-color);
+      font-size: 0.85rem;
+      min-width: 140px;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
@@ -362,6 +405,12 @@
   <div id="catalogo" class="grid-catalogo"></div>
   <p id="sin-resultados">No se encontraron películas con esos filtros.</p>
 
+  <div id="paginacion" class="oculta">
+    <button class="boton-pagina" id="btn-pagina-anterior" type="button">← Anterior</button>
+    <span id="info-pagina"></span>
+    <button class="boton-pagina" id="btn-pagina-siguiente" type="button">Siguiente →</button>
+  </div>
+
   <script>
     const RUTA_JSON = "catalogo.json";
 
@@ -375,8 +424,15 @@
     // propio visitante quien decide enviarlo desde su cuenta de Telegram.
     const TELEGRAM_BOT_USERNAME = "melografia_bot";
 
+    // Cuántas tarjetas se muestran por página. Pensado para que, al incrustar
+    // el sitio en un iframe (ej. un módulo de Divi), no se rendericen las
+    // 1600+ películas de una sola vez.
+    const ITEMS_POR_PAGINA = 30;
+
     let peliculas = [];       // todas las películas, tal como vienen del JSON
     let tarjetasPorId = new Map();
+    let resultadoFiltrado = []; // resultado actual (filtrado + ordenado), sin paginar
+    let paginaActual = 1;
 
     // Estado de los filtros activos
     const filtros = {
@@ -480,8 +536,8 @@
 
       const estudios = [...new Set(peliculas.map(p => p.studio).filter(Boolean))].sort();
 
-      construirChips('opciones-clasificacion', clasificaciones, filtros.clasificaciones, aplicarFiltros);
-      construirChips('opciones-resolucion', resoluciones, filtros.resoluciones, aplicarFiltros);
+      construirChips('opciones-clasificacion', clasificaciones, filtros.clasificaciones, () => { paginaActual = 1; aplicarFiltros(); });
+      construirChips('opciones-resolucion', resoluciones, filtros.resoluciones, () => { paginaActual = 1; aplicarFiltros(); });
 
       const datalist = document.getElementById('lista-estudios');
       datalist.innerHTML = estudios.map(e => `<option value="${e}">`).join('');
@@ -513,7 +569,7 @@
       return copia;
     }
 
-    // ---------- Aplicar todos los filtros + orden ----------
+    // ---------- Aplicar todos los filtros + orden (recalcula el set completo) ----------
     function aplicarFiltros() {
       let resultado = peliculas.filter(p => {
         if (filtros.texto) {
@@ -529,22 +585,56 @@
         return true;
       });
 
-      resultado = ordenarPeliculas(resultado);
+      resultadoFiltrado = ordenarPeliculas(resultado);
+      renderizarPagina();
+      actualizarContadorFiltrosActivos();
+    }
 
-      // Reordenar/mostrar-ocultar tarjetas ya creadas (evita recrear el DOM)
+    // ---------- Renderizar solo la página actual (no recalcula filtros) ----------
+    function renderizarPagina() {
+      const totalItems = resultadoFiltrado.length;
+      const totalPaginas = Math.max(1, Math.ceil(totalItems / ITEMS_POR_PAGINA));
+
+      if (paginaActual > totalPaginas) paginaActual = totalPaginas;
+      if (paginaActual < 1) paginaActual = 1;
+
+      const inicio = (paginaActual - 1) * ITEMS_POR_PAGINA;
+      const paginaItems = resultadoFiltrado.slice(inicio, inicio + ITEMS_POR_PAGINA);
+
       const contenedor = document.getElementById('catalogo');
       const fragmento = document.createDocumentFragment();
-      resultado.forEach(p => fragmento.appendChild(tarjetasPorId.get(p.ratingKey)));
+      paginaItems.forEach(p => fragmento.appendChild(tarjetasPorId.get(p.ratingKey)));
       contenedor.innerHTML = "";
       contenedor.appendChild(fragmento);
 
-      document.getElementById('sin-resultados').style.display = resultado.length ? 'none' : 'block';
+      document.getElementById('sin-resultados').style.display = totalItems ? 'none' : 'block';
       document.getElementById('contador').textContent =
-        resultado.length === peliculas.length
+        totalItems === peliculas.length
           ? `${peliculas.length} películas`
-          : `${resultado.length} de ${peliculas.length} películas`;
+          : `${totalItems} de ${peliculas.length} películas`;
 
-      actualizarContadorFiltrosActivos();
+      // ---- Controles de paginación ----
+      const paginacion = document.getElementById('paginacion');
+      const infoPagina = document.getElementById('info-pagina');
+      const btnAnterior = document.getElementById('btn-pagina-anterior');
+      const btnSiguiente = document.getElementById('btn-pagina-siguiente');
+
+      if (totalItems === 0) {
+        paginacion.classList.add('oculta');
+      } else {
+        paginacion.classList.remove('oculta');
+        infoPagina.textContent = `Página ${paginaActual} de ${totalPaginas}`;
+        btnAnterior.disabled = paginaActual <= 1;
+        btnSiguiente.disabled = paginaActual >= totalPaginas;
+      }
+    }
+
+    function irAPagina(nuevaPagina) {
+      paginaActual = nuevaPagina;
+      renderizarPagina();
+      // Al cambiar de página, llevamos la vista al inicio del catálogo
+      // (útil sobre todo cuando el sitio está incrustado en un iframe).
+      document.getElementById('catalogo').scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
     function actualizarContadorFiltrosActivos() {
@@ -559,11 +649,13 @@
     function inicializarControles() {
       document.getElementById('buscador').addEventListener('input', (e) => {
         filtros.texto = e.target.value.trim().toLowerCase();
+        paginaActual = 1;
         aplicarFiltros();
       });
 
       document.getElementById('orden').addEventListener('change', (e) => {
         filtros.orden = e.target.value;
+        paginaActual = 1;
         aplicarFiltros();
       });
 
@@ -573,16 +665,19 @@
 
       document.getElementById('anio-desde').addEventListener('input', (e) => {
         filtros.anioDesde = e.target.value ? parseInt(e.target.value) : null;
+        paginaActual = 1;
         aplicarFiltros();
       });
 
       document.getElementById('anio-hasta').addEventListener('input', (e) => {
         filtros.anioHasta = e.target.value ? parseInt(e.target.value) : null;
+        paginaActual = 1;
         aplicarFiltros();
       });
 
       document.getElementById('filtro-estudio').addEventListener('input', (e) => {
         filtros.estudio = e.target.value.trim().toLowerCase();
+        paginaActual = 1;
         aplicarFiltros();
       });
 
@@ -596,7 +691,17 @@
         document.getElementById('anio-hasta').value = "";
         document.getElementById('filtro-estudio').value = "";
         document.querySelectorAll('.chip-filtro.activo').forEach(c => c.classList.remove('activo'));
+        paginaActual = 1;
         aplicarFiltros();
+      });
+
+      document.getElementById('btn-pagina-anterior').addEventListener('click', () => {
+        if (paginaActual > 1) irAPagina(paginaActual - 1);
+      });
+
+      document.getElementById('btn-pagina-siguiente').addEventListener('click', () => {
+        const totalPaginas = Math.max(1, Math.ceil(resultadoFiltrado.length / ITEMS_POR_PAGINA));
+        if (paginaActual < totalPaginas) irAPagina(paginaActual + 1);
       });
     }
 
@@ -617,14 +722,12 @@
 
       peliculas = datos.filter(p => p.type === "movie" && p.title);
 
-      const contenedor = document.getElementById('catalogo');
-      const fragmento = document.createDocumentFragment();
+      // Creamos todas las tarjetas una sola vez (quedan en memoria), pero
+      // solo se insertan en el DOM las de la página actual en cada momento.
       peliculas.forEach(p => {
         const tarjeta = crearTarjeta(p);
         tarjetasPorId.set(p.ratingKey, tarjeta);
-        fragmento.appendChild(tarjeta);
       });
-      contenedor.appendChild(fragmento);
 
       inicializarFiltrosDinamicos();
       aplicarFiltros();

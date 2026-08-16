@@ -6,6 +6,9 @@
   <title>Catálogo Movies</title>
 
   <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
 
   <style>
     :root {
@@ -42,7 +45,17 @@
     h1 {
       text-align: center;
       margin-bottom: 8px;
-      color: var(--accent-color);
+      color: #d3ff00;
+      font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 900;
+      letter-spacing: 0.02em;
+    }
+
+    .subtitulo-fijo {
+      text-align: center;
+      color: var(--muted-color);
+      margin-bottom: 4px;
+      font-size: 0.9rem;
     }
 
     .subtitulo {
@@ -422,7 +435,8 @@
 </head>
 <body>
 
-  <h1>Catálogo de Películas</h1>
+  <h1>CATÁLOGO PELÍCULAS</h1>
+  <p class="subtitulo-fijo">Acá encontraras todo el catalógo de películas disponibles que tenemos en melografía.cl</p>
   <p class="subtitulo" id="contador">Cargando catálogo…</p>
 
   <div class="barra-superior">

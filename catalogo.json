@@ -37540,6 +37540,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-22T21:30:30",
+        "audienceRating": 6.2,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 5488405,
+        "durationHuman": "1 hr 31 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776a6f23d5a3001f50491d",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Kanawa(1972)Kaneto.Shindo.avi"
+        ],
+        "originalTitle": "鉄輪",
+        "originallyAvailableAt": "1972-04-22",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11383,
+        "studio": "Kindai Eiga Kyokai",
+        "summary": "When her husband leaves her for a younger woman, a woman plots revenge against him.",
+        "tagline": null,
+        "thumbFile": "Movie - Kanawa [11383].resources/Kanawa [11383].thumb.jpg",
+        "title": "Kanawa",
+        "titleSort": "Kanawa",
+        "type": "movie",
+        "userRating": null,
+        "year": 1972,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 2294,
+                "container": "avi",
+                "duration": 5488405,
+                "hdr": false,
+                "height": 544,
+                "isOptimizedVersion": false,
+                "videoCodec": "mpeg4",
+                "videoFrameRate": "24p",
+                "videoProfile": "advanced simple",
+                "videoResolution": "480",
+                "width": 720
+            }
+        ]
+    },
+    {
         "addedAt": "2024-05-21T16:33:52",
         "audienceRating": 9.1,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -63486,7 +63533,7 @@
                 "audioChannels": 6,
                 "audioCodec": "ac3",
                 "audioProfile": null,
-                "bitrate": 9212,
+                "bitrate": 9215,
                 "container": "mkv",
                 "duration": 4615103,
                 "hdr": false,
@@ -72604,6 +72651,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1792
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-08-22T21:30:31",
+        "audienceRating": 5.1,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": "Not Rated",
+        "duration": 4091000,
+        "durationHuman": "1 hr 8 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/65c0045d83a1c98264a99c76",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Untitled Footage (2024)/Untitled Footage (2024).mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2024-10-01",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11384,
+        "studio": "Horror Dadz Productions",
+        "summary": "One year after the death of Rachel Montgomery, her sister Tessa seeks answers. Armed with a camera, Tessa and her friend Grant decide it is time to uncover the mystery and try to identify the man responsible for brutal murder and unspeakable evil: The Claw Hammer Killer.",
+        "tagline": null,
+        "thumbFile": "Movie - Untitled Footage [11384].resources/Untitled Footage [11384].thumb.jpg",
+        "title": "Untitled Footage",
+        "titleSort": "Untitled Footage",
+        "type": "movie",
+        "userRating": null,
+        "year": 2024,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2596,
+                "container": "mp4",
+                "duration": 4091000,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },

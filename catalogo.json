@@ -34731,6 +34731,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-23T23:11:26",
+        "audienceRating": 6.8,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 5684240,
+        "durationHuman": "1 hr 35 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776c8796b655001fe33dc0",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Indeks (1977) ENG SUBS [HD]/Indeks (1977) ENG SUBS [HD].mp4"
+        ],
+        "originalTitle": "Indeks",
+        "originallyAvailableAt": "1977-05-25",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11401,
+        "studio": "Zespół Filmowy \"Pryzmat\"",
+        "summary": "Following the political events of March 1968, rebellious student Józef Moneta fights for his fellow students expelled from the university. Soon he must face expulsion himself.",
+        "tagline": null,
+        "thumbFile": "Movie - Index [11401].resources/Index [11401].thumb.jpg",
+        "title": "Index",
+        "titleSort": "Index",
+        "type": "movie",
+        "userRating": null,
+        "year": 1977,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2597,
+                "container": "mp4",
+                "duration": 5684240,
+                "hdr": false,
+                "height": 720,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "PAL",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 986
+            }
+        ]
+    },
+    {
         "addedAt": "2026-06-22T00:24:14",
         "audienceRating": 6.7,
         "audienceRatingImage": "imdb://image.rating",

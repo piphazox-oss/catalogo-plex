@@ -30230,6 +30230,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-24T11:11:04",
+        "audienceRating": 7.9,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 4800000,
+        "durationHuman": "1 hr 20 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776892ebdf2200209c28d0",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Le.Bonheur.1965.(Agnes.Varda).1080p.BRRip.x264-Classics/Le.Bonheur.1965.(Agnes.Varda).1080p.BRRip.x264-Classics.mkv"
+        ],
+        "originalTitle": "Le Bonheur",
+        "originallyAvailableAt": "1965-02-10",
+        "rating": 8.8,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11403,
+        "studio": "Parc Film",
+        "summary": "Francois is a young carpenter married with Therese. They have two little children. All goes well, life is beautiful, the sun shines and the birds sing. One day, Francois meets Emilie, they fall in love and become lovers. He still loves his wife and wants to share his new greater happiness with her.",
+        "tagline": "Only a woman could dare to make this film.",
+        "thumbFile": "Movie - Happiness [11403].resources/Happiness [11403].thumb.jpg",
+        "title": "Happiness",
+        "titleSort": "Happiness",
+        "type": "movie",
+        "userRating": null,
+        "year": 1965,
+        "media": [
+            {
+                "aspectRatio": null,
+                "audioChannels": null,
+                "audioCodec": null,
+                "audioProfile": null,
+                "bitrate": null,
+                "container": null,
+                "duration": null,
+                "hdr": false,
+                "height": null,
+                "isOptimizedVersion": false,
+                "videoCodec": null,
+                "videoFrameRate": null,
+                "videoProfile": null,
+                "videoResolution": null,
+                "width": null
+            }
+        ]
+    },
+    {
         "addedAt": "2024-10-16T21:08:20",
         "audienceRating": 8.9,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

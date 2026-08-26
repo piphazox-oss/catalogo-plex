@@ -556,7 +556,7 @@
     // ---------- Link de Telegram con mensaje precargado ----------
     function enlaceTelegram(pelicula) {
       const anio = pelicula.year ? ` (${pelicula.year})` : "";
-      const mensaje = `Hola! Te escribo sobre la película "${pelicula.title}"${anio}: `;
+      const mensaje = `MOVIES - Hola! Te escribo sobre la película "${pelicula.title}"${anio}: `;
       return `https://t.me/${TELEGRAM_BOT_USERNAME}?start=movies&text=${encodeURIComponent(mensaje)}`;
     }
 

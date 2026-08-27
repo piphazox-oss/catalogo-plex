@@ -6342,7 +6342,7 @@
     },
     {
         "addedAt": "2019-02-09T16:50:31",
-        "audienceRating": 8.1,
+        "audienceRating": 8.2,
         "audienceRatingImage": "imdb://image.rating",
         "contentRating": null,
         "duration": 1333415,
@@ -7675,6 +7675,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-26T21:25:28",
+        "audienceRating": 6.7,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": "Not Rated",
+        "duration": 5701321,
+        "durationHuman": "1 hr 35 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d77695a7a53e9001e6e3983",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/Black.Sun.1964.JAPANESE.ENSUBBED.1080p.AMZN.WEBRip.AAC2.0.x264-SbR.mkv"
+        ],
+        "originalTitle": "黒い太陽",
+        "originallyAvailableAt": "1964-04-19",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11406,
+        "studio": "Nikkatsu Corporation",
+        "summary": "One is a young, jazz-obsessed Japanese drifter and other is a black American GI on the lam in Tokyo. The two outsiders become outlaws and the movie depicts their growing bond as an alternately absurd and tragic culture clash.",
+        "tagline": null,
+        "thumbFile": "Movie - Black Sun [11406].resources/Black Sun [11406].thumb.jpg",
+        "title": "Black Sun",
+        "titleSort": "Black Sun",
+        "type": "movie",
+        "userRating": null,
+        "year": 1964,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 5170,
+                "container": "mkv",
+                "duration": 5701321,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2026-02-14T22:06:07",
         "audienceRating": 7.7,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -7817,7 +7864,7 @@
     },
     {
         "addedAt": "2022-09-04T11:34:54",
-        "audienceRating": 9.1,
+        "audienceRating": 9.0,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
         "contentRating": "R",
         "duration": 7056883,
@@ -7830,12 +7877,12 @@
         ],
         "originalTitle": null,
         "originallyAvailableAt": "1982-06-25",
-        "rating": 8.9,
+        "rating": 9.4,
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 1158,
         "studio": "Shaw Brothers",
         "summary": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-        "tagline": "Man has made his match... now it's his problem.",
+        "tagline": "Man has made his match ...now it's his problem.",
         "thumbFile": "Movie - Blade Runner [1158].resources/Blade Runner [1158].thumb.jpg",
         "title": "Blade Runner",
         "titleSort": "Blade Runner",
@@ -9197,6 +9244,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-26T21:25:31",
+        "audienceRating": 9.1,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 6905909,
+        "durationHuman": "1 hr 55 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776824151a60001f24a29b",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Breakfast At Tiffany's (1961) [BluRay] [1080p] [YTS.AM]/Breakfast.At.Tiffany's.1961.1080p.BluRay.x264-[YTS.AM].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1961-10-06",
+        "rating": 8.7,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11410,
+        "studio": "Paramount Pictures",
+        "summary": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+        "tagline": "Audrey Hepburn plays that daring, darling Holly Golightly to a new high in entertainment delight!",
+        "thumbFile": "Movie - Breakfast at Tiffany_s [11410].resources/Breakfast at Tiffany_s [11410].thumb.jpg",
+        "title": "Breakfast at Tiffany's",
+        "titleSort": "Breakfast at Tiffany's",
+        "type": "movie",
+        "userRating": null,
+        "year": 1961,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2272,
+                "container": "mp4",
+                "duration": 6905909,
+                "hdr": false,
+                "height": 1072,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2023-11-11T12:35:46",
         "audienceRating": 9.2,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -9469,7 +9563,7 @@
         "ratingKey": 1212,
         "studio": "TSG Entertainment",
         "summary": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",
-        "tagline": "In the shadow of war, one man showed the world what we stood for.",
+        "tagline": "In the shadow of war, one man showed the world what we stand for.",
         "thumbFile": "Movie - Bridge of Spies [1212].resources/Bridge of Spies [1212].thumb.jpg",
         "title": "Bridge of Spies",
         "titleSort": "Bridge of Spies",
@@ -10156,8 +10250,8 @@
     },
     {
         "addedAt": "2024-07-21T20:10:19",
-        "audienceRating": 6.0,
-        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "audienceRating": 5.9,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "Not Rated",
         "duration": 5436806,
         "durationHuman": "1 hr 31 mins",
@@ -10314,7 +10408,7 @@
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 1220,
         "studio": "Les Films du Losange",
-        "summary": "George, host of a television show focusing on literature, receives videos shot on the sly that feature his family, along with disturbing drawings that are difficult to interpret. He has no idea who has made and sent him the videos. Progressively, the contents of the videos become more personal, indicating that the sender has known George for a long time.",
+        "summary": "As the host of a literary TV show, Georges begins receiving anonymously filmed videos of his family alongside cryptic, disturbing drawings, but as the tapes become increasingly intimate, they reveal a stalker who has known him for a very long time.",
         "tagline": "Hidden within.",
         "thumbFile": "Movie - Cache [1220].resources/Cache [1220].thumb.jpg",
         "title": "Caché",
@@ -13079,7 +13173,7 @@
         ],
         "originalTitle": null,
         "originallyAvailableAt": "2018-09-19",
-        "rating": 6.9,
+        "rating": 6.8,
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 1273,
         "studio": "Rectangle Productions",
@@ -13648,7 +13742,7 @@
     },
     {
         "addedAt": "2024-07-06T15:34:34",
-        "audienceRating": 7.3,
+        "audienceRating": 7.2,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
         "contentRating": "16+",
         "duration": 5394261,
@@ -15105,7 +15199,7 @@
     },
     {
         "addedAt": "2024-03-03T17:37:48",
-        "audienceRating": 2.0,
+        "audienceRating": 3.3,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "Not Rated",
         "duration": 2432799,
@@ -15152,7 +15246,7 @@
     },
     {
         "addedAt": "2024-03-03T17:38:16",
-        "audienceRating": 8.0,
+        "audienceRating": 7.9,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
         "contentRating": "Not Rated",
         "duration": 4762632,
@@ -17986,7 +18080,7 @@
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 1358,
         "studio": "Decla-Bioscop",
-        "summary": "As a young couple stops and rests in a small village inn, the man is abducted by Death and is sequestered behind a huge doorless, windowless wall. The woman finds a mystic entrance and is met by Death, who tells her three separate stories set in exotic locales, all involving circumstances similar to hers.",
+        "summary": "As a young couple stops and rests in a small village inn, the man is abducted by Death and sequestered behind a huge doorless, windowless wall. The woman poisons herself in order to join him and is met by Death, who gives her three opportunities to prove that love is stronger than death, thereby freeing her beloved from his fate.",
         "tagline": "Love is Stronger Than Death",
         "thumbFile": "Movie - Destiny [1358].resources/Destiny [1358].thumb.jpg",
         "title": "Destiny",
@@ -19996,7 +20090,7 @@
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 1399,
         "studio": "Hawk Films",
-        "summary": "When a rogue U.S. general orders an unauthorized nuclear attack on the Soviet Union, leaders in the War Room race to prevent global catastrophe.",
+        "summary": "After a rogue U.S. general orders an unauthorized nuclear attack on the Soviet Union, leaders in the War Room race to prevent global catastrophe.",
         "tagline": "The hot-line suspense comedy.",
         "thumbFile": "Movie - Dr. Strangelove or_ How I Learned to Stop Worrying and Love the Bomb [1399].resources/Dr. Strangelove or_ How I Learned to Stop Worrying and Love the Bomb [1399].thumb.jpg",
         "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -22581,7 +22675,7 @@
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 1543,
         "studio": "DNA Films",
-        "summary": "Caleb, a 26 year old programmer at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+        "summary": "A young programmer is chosen by his reclusive CEO to evaluate the abilities and consciousness of a beautiful, sophisticated robot.",
         "tagline": "There is nothing more human than the will to survive.",
         "thumbFile": "Movie - Ex Machina [1543].resources/Ex Machina [1543].thumb.jpg",
         "title": "Ex Machina",
@@ -24328,7 +24422,7 @@
     },
     {
         "addedAt": "2024-06-02T14:23:29",
-        "audienceRating": 4.9,
+        "audienceRating": 4.8,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "R",
         "duration": 5559054,
@@ -32048,6 +32142,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1444
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-08-26T21:25:32",
+        "audienceRating": null,
+        "audienceRatingImage": null,
+        "contentRating": null,
+        "duration": 11127867,
+        "durationHuman": "3 hrs 5 mins",
+        "editionTitle": null,
+        "guid": "local://11411",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Hiroshima [1995 - Canada + Japan] WWII docudrama/Hiroshima (Kurahara Koreyoshi & Roger Spottiswoode, 1995).mkv"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": null,
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11411,
+        "studio": null,
+        "summary": "",
+        "tagline": null,
+        "thumbFile": "Movie - Hiroshima [11411].resources/Hiroshima [11411].thumb.jpg",
+        "title": "Hiroshima",
+        "titleSort": "Hiroshima",
+        "type": "movie",
+        "userRating": null,
+        "year": 1995,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 1539,
+                "container": "mkv",
+                "duration": 11127867,
+                "hdr": false,
+                "height": 512,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "480",
+                "width": 704
             }
         ]
     },
@@ -53505,6 +53646,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-26T21:25:30",
+        "audienceRating": 6.4,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 4274064,
+        "durationHuman": "1 hr 11 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776b92ad5437001f7a3c8a",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Wieczne. Pretensje. 1974. Film.pl 1080p.mp4"
+        ],
+        "originalTitle": "Wieczne pretensje",
+        "originallyAvailableAt": "1975-08-15",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11408,
+        "studio": "Zespół Filmowy \"Panorama\"",
+        "summary": "Franek, a petty criminal and gambler, befriends Rysio, who performs inspections of meat plants. Rysio suspects wrongdoings at the slaughterhouse. Franek, despite his age, cannot find a place in life, with nothing achieved and, what's more, still not knowing what to do.",
+        "tagline": null,
+        "thumbFile": "Movie - Permanent Objections [11408].resources/Permanent Objections [11408].thumb.jpg",
+        "title": "Permanent Objections",
+        "titleSort": "Permanent Objections",
+        "type": "movie",
+        "userRating": null,
+        "year": 1975,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 3730,
+                "container": "mp4",
+                "duration": 4274064,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "PAL",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2023-06-21T12:49:41",
         "audienceRating": 9.2,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -54224,6 +54412,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-08-26T21:25:31",
+        "audienceRating": 7.6,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Passed",
+        "duration": 6862167,
+        "durationHuman": "1 hr 54 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d77688d1999bc0020dc8f89",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Piccadilly (1929) [1080p] [BluRay] [YTS.MX]/Piccadilly.1929.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1929-03-07",
+        "rating": 8.0,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11409,
+        "studio": "British International Pictures",
+        "summary": "A young Chinese woman working in the kitchen at a London dance club is given the chance to become the club's main act, which leads to a plot of betrayal, forbidden love, and murder.",
+        "tagline": "JUST AS GOD MADE HER She Loved, and Loving She Gave-Her Heart, Her Soul, to a Man Who Played, and Laughed, and Loved Another. A SOUND PICTURE (Print Ad-Free Lance-Star, ((Fredericksburg, Va.)) 24 August 1929)",
+        "thumbFile": "Movie - Piccadilly [11409].resources/Piccadilly [11409].thumb.jpg",
+        "title": "Piccadilly",
+        "titleSort": "Piccadilly",
+        "type": "movie",
+        "userRating": null,
+        "year": 1929,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2385,
+                "container": "mp4",
+                "duration": 6862167,
+                "hdr": false,
+                "height": 1072,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1424
             }
         ]
     },
@@ -56957,6 +57192,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-08-26T21:25:29",
+        "audienceRating": 9.4,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "PG",
+        "duration": 7480192,
+        "durationHuman": "2 hrs 5 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776834961905001eb93c98",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Raise.The.Red.Lantern.1991.720p.BluRay.x264.RUS.CHI.Subs-HDChina.mkv"
+        ],
+        "originalTitle": "大红灯笼高高挂",
+        "originallyAvailableAt": "1991-12-18",
+        "rating": 9.7,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11407,
+        "studio": "ERA International",
+        "summary": "A young woman becomes the fourth concubine of a wealthy man and soon realizes there's fierce competition for his attention and the associated privileges.",
+        "tagline": "China, 1920. One Master, Four Wives.",
+        "thumbFile": "Movie - Raise the Red Lantern [11407].resources/Raise the Red Lantern [11407].thumb.jpg",
+        "title": "Raise the Red Lantern",
+        "titleSort": "Raise the Red Lantern",
+        "type": "movie",
+        "userRating": null,
+        "year": 1991,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 6804,
+                "container": "mkv",
+                "duration": 7480192,
+                "hdr": false,
+                "height": 690,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 1280
             }
         ]
     },
@@ -66364,6 +66646,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1440
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-08-26T21:25:33",
+        "audienceRating": 8.0,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 6508585,
+        "durationHuman": "1 hr 48 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776835103a2d001f567da2",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Strange.Circus.2005.iNTERNAL.DVDRip.XviD-SHK/sc-shk.avi"
+        ],
+        "originalTitle": "奇妙なサーカス",
+        "originallyAvailableAt": "2005-12-24",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11412,
+        "studio": "Sedic",
+        "summary": "The erotic novelist Taeko is writing a morbid story of a family destroyed by incest, murder and abuse. Her assistant, Yuji, sets on a mission to uncover the reality of this story, but the reality might be too much to bear.",
+        "tagline": "Reality is the mystery…",
+        "thumbFile": "Movie - Strange Circus [11412].resources/Strange Circus [11412].thumb.jpg",
+        "title": "Strange Circus",
+        "titleSort": "Strange Circus",
+        "type": "movie",
+        "userRating": null,
+        "year": 2005,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "mp3",
+                "audioProfile": null,
+                "bitrate": 904,
+                "container": "avi",
+                "duration": 6508585,
+                "hdr": false,
+                "height": 336,
+                "isOptimizedVersion": false,
+                "videoCodec": "mpeg4",
+                "videoFrameRate": "24p",
+                "videoProfile": "advanced simple",
+                "videoResolution": "sd",
+                "width": 624
             }
         ]
     },

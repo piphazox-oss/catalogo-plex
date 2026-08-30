@@ -23416,6 +23416,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-30T19:41:06",
+        "audienceRating": 9.0,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 7321853,
+        "durationHuman": "2 hrs 2 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776859eb5d26001f1e74a9",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/The.Face.of.Another.1966.(Drama-Sci.Fi-Japan).720p.x264-Classics/The.Face.of.Another.1966.(Drama-Sci.Fi-Japan).720p.x264-Classics.mkv"
+        ],
+        "originalTitle": "他人の顔",
+        "originallyAvailableAt": "1966-07-15",
+        "rating": 8.6,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11448,
+        "studio": "Teshigahara Productions",
+        "summary": "A businessman with a disfigured face obtains a lifelike mask from his doctor, but the mask starts altering his personality.",
+        "tagline": "It’s always lonely being free.",
+        "thumbFile": "Movie - The Face of Another [11448].resources/The Face of Another [11448].thumb.jpg",
+        "title": "The Face of Another",
+        "titleSort": "Face of Another",
+        "type": "movie",
+        "userRating": null,
+        "year": 1966,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2234,
+                "container": "mkv",
+                "duration": 7321853,
+                "hdr": false,
+                "height": 720,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 1280
+            }
+        ]
+    },
+    {
         "addedAt": "2024-09-15T17:36:00",
         "audienceRating": 7.2,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

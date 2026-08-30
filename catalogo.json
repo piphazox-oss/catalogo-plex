@@ -4895,6 +4895,53 @@
         ]
     },
     {
+        "addedAt": "2026-08-30T17:04:11",
+        "audienceRating": 8.3,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": null,
+        "duration": 9023927,
+        "durationHuman": "2 hrs 30 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768856f4521001eaaa6db",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Assa 1987 1080p YT WEB-DL AV1 Opus 2 0 Eng Subs-MAD/Assa 1987 1080p YT WEB-DL AV1 Opus 2 0 Eng Subs-MAD.mkv"
+        ],
+        "originalTitle": "Асса",
+        "originallyAvailableAt": "1987-11-01",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11447,
+        "studio": "Mosfilm",
+        "summary": "ASSA is set in Crimea during the winter in 1980. A young musician (Bananan) falls for a mobster's (Krymov) young mistress (Alika). The parallel story line involves a 19th Century assassination plot.",
+        "tagline": null,
+        "thumbFile": "Movie - Assa [11447].resources/Assa [11447].thumb.jpg",
+        "title": "Assa",
+        "titleSort": "Assa",
+        "type": "movie",
+        "userRating": null,
+        "year": 1987,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "opus",
+                "audioProfile": null,
+                "bitrate": 635,
+                "container": "mkv",
+                "duration": 9023927,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "av1",
+                "videoFrameRate": "24p",
+                "videoProfile": "main",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-09-15T15:12:59",
         "audienceRating": 6.6,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -14063,6 +14110,53 @@
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-08-30T17:03:53",
+        "audienceRating": 6.2,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": null,
+        "duration": 5899872,
+        "durationHuman": "1 hr 38 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768900ea56a001e2a717d",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Comédie de l'innocence.mkv"
+        ],
+        "originalTitle": "Comédie de l'innocence",
+        "originallyAvailableAt": "2000-09-10",
+        "rating": 2.0,
+        "ratingImage": "rottentomatoes://image.rating.rotten",
+        "ratingKey": 11446,
+        "studio": "Les Films du Camélia",
+        "summary": "Today, Camille turns nine. He had sworn that on his 9th birthday he would show his parents the videos he was shooting on the side-the tail of a cat scampering away, a window, and a veiled woman's face - an intriguing picture... Later that day, Camille's mother, Ariane, meets up with her son in the park. The boys appears perturbed. He is leaning against a tree, eyes cast down. He says that now he wants to return to his \"real home\" and his \"real mother.\"",
+        "tagline": null,
+        "thumbFile": "Movie - Comedy of Innocence [11446].resources/Comedy of Innocence [11446].thumb.jpg",
+        "title": "Comedy of Innocence",
+        "titleSort": "Comedy of Innocence",
+        "type": "movie",
+        "userRating": null,
+        "year": 2000,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 6095,
+                "container": "mkv",
+                "duration": 5899872,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "PAL",
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920

@@ -17228,7 +17228,7 @@
     },
     {
         "addedAt": "2024-11-29T21:41:20",
-        "audienceRating": 7.0,
+        "audienceRating": 6.9,
         "audienceRatingImage": "imdb://image.rating",
         "contentRating": null,
         "duration": 5261533,
@@ -18486,7 +18486,7 @@
     },
     {
         "addedAt": "2024-10-27T18:45:13",
-        "audienceRating": 6.1,
+        "audienceRating": 6.2,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
         "contentRating": null,
         "duration": 7258560,
@@ -41572,7 +41572,7 @@
     },
     {
         "addedAt": "2025-02-02T15:43:02",
-        "audienceRating": 4.8,
+        "audienceRating": 4.9,
         "audienceRatingImage": "imdb://image.rating",
         "contentRating": null,
         "duration": 5442437,
@@ -42089,7 +42089,7 @@
     },
     {
         "addedAt": "2024-10-04T22:29:15",
-        "audienceRating": 7.6,
+        "audienceRating": 7.7,
         "audienceRatingImage": "imdb://image.rating",
         "contentRating": null,
         "duration": 4564437,
@@ -42483,7 +42483,7 @@
         "ratingKey": 784,
         "studio": "New Line Cinema",
         "summary": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-        "tagline": "The eye of the enemy is moving.",
+        "tagline": "There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.",
         "thumbFile": "Movie - The Lord of the Rings_ The Return of the King [784].resources/The Lord of the Rings_ The Return of the King [784].thumb.jpg",
         "title": "The Lord of the Rings: The Return of the King",
         "titleSort": "Lord of the Rings: The Return of the King",
@@ -43893,7 +43893,7 @@
     },
     {
         "addedAt": "2025-04-12T19:51:26",
-        "audienceRating": 5.2,
+        "audienceRating": 5.1,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "Not Rated",
         "duration": 6007957,
@@ -45228,7 +45228,7 @@
         "ratingKey": 802,
         "studio": "Northern Cross",
         "summary": "A horrifying story of a shaman's inheritance in the Isan region of Thailand. What could be possessing a family member might not be the Goddess they make it out to be.",
-        "tagline": "A story about shamanism in Thailand.",
+        "tagline": "Every faith will be challenged.",
         "thumbFile": "Movie - The Medium [802].resources/The Medium [802].thumb.jpg",
         "title": "The Medium",
         "titleSort": "Medium",
@@ -45744,7 +45744,7 @@
     },
     {
         "addedAt": "2024-09-03T20:14:20",
-        "audienceRating": 5.6,
+        "audienceRating": 5.7,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "R",
         "duration": 5390026,
@@ -60928,7 +60928,7 @@
     },
     {
         "addedAt": "2025-02-18T17:43:26",
-        "audienceRating": 7.0,
+        "audienceRating": 6.9,
         "audienceRatingImage": "imdb://image.rating",
         "contentRating": null,
         "duration": 4279232,

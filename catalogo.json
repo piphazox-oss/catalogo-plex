@@ -20260,6 +20260,53 @@
         ]
     },
     {
+        "addedAt": "2026-09-05T20:30:36",
+        "audienceRating": 8.5,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 6457472,
+        "durationHuman": "1 hr 48 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776835103a2d001f567d9e",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/The Draughtsmans Contract (1982) [1080p] [BluRay] [5.1] [YTS.MX]/The.Draughtsmans.Contract.1982.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1982-11-12",
+        "rating": 9.7,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11467,
+        "studio": "BFI",
+        "summary": "Mr. Neville, a cocksure young artist, is contracted by Mrs. Herbert, the wife of a wealthy landowner, to produce a set of twelve drawings of her husband's estate, a contract which extends much further than either the purse or the sketchpad. The sketches themselves prove of an even greater significance than supposed upon the discovery of the body of Mr. Herbert.",
+        "tagline": "A landscape of lust and cunning.",
+        "thumbFile": "Movie - The Draughtsman_s Contract [11467].resources/The Draughtsman_s Contract [11467].thumb.jpg",
+        "title": "The Draughtsman's Contract",
+        "titleSort": "Draughtsman's Contract",
+        "type": "movie",
+        "userRating": null,
+        "year": 1982,
+        "media": [
+            {
+                "aspectRatio": 1.66,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2638,
+                "container": "mp4",
+                "duration": 6457472,
+                "hdr": false,
+                "height": 1072,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1808
+            }
+        ]
+    },
+    {
         "addedAt": "2026-06-22T00:24:34",
         "audienceRating": 6.5,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -20585,6 +20632,53 @@
                 "videoProfile": "main 10",
                 "videoResolution": "1080",
                 "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-09-05T20:30:36",
+        "audienceRating": 8.8,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 7148288,
+        "durationHuman": "1 hr 59 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768537e9a3c0020c70ddb",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Drowning by Numbers (1988) [1080p]/Drowning.by.Numbers.1988.1080p.BluRay.x264.YIFY.mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1988-09-02",
+        "rating": 8.8,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11468,
+        "studio": "Stimuleringsfonds Nederlandse Culturele Omroepproducties",
+        "summary": "Cissie Colpitts drowns her cheating husband and,  in the ensuing cover-up, enlists the help of lonely coroner Henry Madgett, an old friend with a longstanding weakness for her charms. But when Cissie's daughter and granddaughter—both also named Cissie Colpitts—decide to resort to the same methods for solving conflicts with their own frustrating husbands, the women and their repeated appeals for help begin to wear on Madgett's conscience.",
+        "tagline": "Three Women And A Coroner.",
+        "thumbFile": "Movie - Drowning by Numbers [11468].resources/Drowning by Numbers [11468].thumb.jpg",
+        "title": "Drowning by Numbers",
+        "titleSort": "Drowning by Numbers",
+        "type": "movie",
+        "userRating": null,
+        "year": 1988,
+        "media": [
+            {
+                "aspectRatio": 1.66,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2212,
+                "container": "mp4",
+                "duration": 7148288,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1808
             }
         ]
     },
@@ -25972,6 +26066,53 @@
         ]
     },
     {
+        "addedAt": "2026-09-05T20:30:35",
+        "audienceRating": 6.2,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 3585834,
+        "durationHuman": "1 hr",
+        "editionTitle": null,
+        "guid": "plex://movie/6470fab02a5f67e23a967430",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/From The Old Earth (1981) SUBBED 1080p WEBRip-WORLD/From.The.Old.Earth.1981.SUBBED.1080p.WEBRip.x264.AAC-WORLD.mp4"
+        ],
+        "originalTitle": "O'r Ddaear Hen",
+        "originallyAvailableAt": "1981-10-31",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11466,
+        "studio": "Bwrdd Ffilmiau Cymraeg",
+        "summary": "As William Jones digs in the garden of his council house he finds a strange looking stone head",
+        "tagline": null,
+        "thumbFile": "Movie - From the Old Earth [11466].resources/From the Old Earth [11466].thumb.jpg",
+        "title": "From the Old Earth",
+        "titleSort": "From the Old Earth",
+        "type": "movie",
+        "userRating": null,
+        "year": 1981,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2386,
+                "container": "mp4",
+                "duration": 3585834,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1444
+            }
+        ]
+    },
+    {
         "addedAt": "2026-01-27T15:08:39",
         "audienceRating": 7.4,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -29897,6 +30038,53 @@
                 "videoProfile": "high",
                 "videoResolution": "480",
                 "width": 848
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-09-05T20:30:34",
+        "audienceRating": 7.8,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 5682240,
+        "durationHuman": "1 hr 35 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768626f4521001eaa4b8c",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Gypsy.83.2001.1080p.WEBRip.x264-RARBG/Gypsy.83.2001.1080p.WEBRip.x264-RARBG.mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2001-10-18",
+        "rating": 5.4,
+        "ratingImage": "rottentomatoes://image.rating.rotten",
+        "ratingKey": 11465,
+        "studio": "Luna Pictures",
+        "summary": "Two young misfits head for New York City to celebrate their idol and muse, Stevie Nicks, at The Night of 1,000 Stevies. Along the road to escape their painful pasts, they must discover their strengths and learn self-acceptance.",
+        "tagline": "Some of us were never meant to fit in.",
+        "thumbFile": "Movie - Gypsy 83 [11465].resources/Gypsy 83 [11465].thumb.jpg",
+        "title": "Gypsy 83",
+        "titleSort": "Gypsy 83",
+        "type": "movie",
+        "userRating": null,
+        "year": 2001,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2727,
+                "container": "mp4",
+                "duration": 5682240,
+                "hdr": false,
+                "height": 1040,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },
@@ -79314,6 +79502,53 @@
                 "videoProfile": "high",
                 "videoResolution": "720",
                 "width": 1280
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-09-05T20:30:36",
+        "audienceRating": 8.5,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 6994047,
+        "durationHuman": "1 hr 57 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d9f356cdfd12800208a13eb",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/A Zed Two Noughts (1985) [1080p] [BluRay] [YTS.MX]/A.Zed.Two.Noughts.1985.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1985-10-04",
+        "rating": 7.8,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11469,
+        "studio": "BFI",
+        "summary": "Identical twins Oliver and Oswald Deuce lose their wives in a car crash caused by a white swan. The brothers, who are zoologists, become obsessed with the death and decay of animals. They both have a relationship with Alba, the driver of the crashed car, who loses first one leg then the other.",
+        "tagline": null,
+        "thumbFile": "Movie - A Zed _ Two Noughts [11469].resources/A Zed _ Two Noughts [11469].thumb.jpg",
+        "title": "A Zed & Two Noughts",
+        "titleSort": "Zed & Two Noughts",
+        "type": "movie",
+        "userRating": null,
+        "year": 1985,
+        "media": [
+            {
+                "aspectRatio": 1.66,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2384,
+                "container": "mp4",
+                "duration": 6994047,
+                "hdr": false,
+                "height": 1072,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1792
             }
         ]
     },

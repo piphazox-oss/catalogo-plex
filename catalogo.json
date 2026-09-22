@@ -21197,7 +21197,7 @@
         "durationHuman": "1 hr 21 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d77683554c0f0001f3036bd",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/Ostkreuz (1991)/Ostkreuz 1991 Full Movie [Subtitled] (Dir. Michael Klier) 🇩🇪 (480p_25fps_H264-128kbit_AAC).mp4"
         ],
@@ -22231,7 +22231,7 @@
         "durationHuman": "1 hr 18 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d776c33ad5437001f7b6bda",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/Ya no basta con rezar (1972).mp4"
         ],
@@ -49749,8 +49749,8 @@
         "audienceRating": 5.6,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "PG-13",
-        "duration": 5580000,
-        "durationHuman": "1 hr 33 mins",
+        "duration": 5836340,
+        "durationHuman": "1 hr 37 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d776c2996b655001fe28046",
         "hasCreditsMarker": false,
@@ -49773,21 +49773,21 @@
         "year": 2016,
         "media": [
             {
-                "aspectRatio": null,
-                "audioChannels": null,
-                "audioCodec": null,
-                "audioProfile": null,
-                "bitrate": null,
-                "container": null,
-                "duration": null,
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2181,
+                "container": "mp4",
+                "duration": 5836340,
                 "hdr": false,
-                "height": null,
+                "height": 1072,
                 "isOptimizedVersion": false,
-                "videoCodec": null,
-                "videoFrameRate": null,
-                "videoProfile": null,
-                "videoResolution": null,
-                "width": null
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },
@@ -55537,7 +55537,7 @@
         "audienceRating": 8.0,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
         "contentRating": "NC-17",
-        "duration": 7560000,
+        "duration": 7577750,
         "durationHuman": "2 hrs 6 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d77685185719b001f3a8876",
@@ -55561,21 +55561,21 @@
         "year": 1996,
         "media": [
             {
-                "aspectRatio": null,
-                "audioChannels": null,
-                "audioCodec": null,
-                "audioProfile": null,
-                "bitrate": null,
-                "container": null,
-                "duration": null,
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2384,
+                "container": "mp4",
+                "duration": 7577750,
                 "hdr": false,
-                "height": null,
+                "height": 1072,
                 "isOptimizedVersion": false,
-                "videoCodec": null,
-                "videoFrameRate": null,
-                "videoProfile": null,
-                "videoResolution": null,
-                "width": null
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1440
             }
         ]
     },
@@ -60577,7 +60577,7 @@
         "durationHuman": "1 hr 24 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d7768aad11dd3002022966d",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/Rumpelstiltskin (1987)/Rumpelstiltskin (1987).avi"
         ],
@@ -65284,7 +65284,7 @@
         "durationHuman": "1 hr 53 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d7768c9594b2b001e6958da",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/Something Wild (1961) [1080p] [YTS.AG]/Something.Wild.1961.1080p.BluRay.x264-[YTS.AG].mp4"
         ],
@@ -67258,7 +67258,7 @@
         "durationHuman": "2 hrs 2 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d7768ee47dd6e001f6c0c07",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/State.of.Siege.1972.(Costa-Gavras).1080p.BRRip.x264-Classics/State.of.Siege.1972.(Costa-Gavras).1080p.BRRip.x264-Classics.mkv"
         ],

@@ -6210,9 +6210,7 @@
         "guid": "plex://movie/5d77699751dd69001fe18eb6",
         "hasCreditsMarker": false,
         "locations": [
-            "/mnt/opelis4/La Batalla de Chile la lucha de un pueblo sin armas I.mp4",
-            "/mnt/opelis4/La Batalla de Chile la lucha de un pueblo sin armas II.mp4",
-            "/mnt/opelis4/La Batalla de Chile la lucha de un pueblo sin armas III.mp4"
+            "/mnt/opelis4/La Batalla de Chile la lucha de un pueblo sin armas I.mp4"
         ],
         "originalTitle": "La batalla de Chile (Parte 1). La insurrección de la burguesía",
         "originallyAvailableAt": "1975-03-18",
@@ -6245,7 +6243,37 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920
-            },
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-09-22T19:27:10",
+        "audienceRating": 7.6,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 5782827,
+        "durationHuman": "1 hr 36 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d77699751dd69001fe18eaf",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/The Battle of Chile Part II.mp4"
+        ],
+        "originalTitle": "La batalla de Chile (Parte 2). El Golpe de Estado",
+        "originallyAvailableAt": "1976-03-13",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11651,
+        "studio": "Equipe Tercer Ano",
+        "summary": "Filmmaker Patricio Guzmán tracks the deterioration of Salvador Allende's position following the attempted coup d'état of 29 June 1973, and analyzes the 10 weeks before Augusto Pinochet's CIA-backed seizure of power.",
+        "tagline": null,
+        "thumbFile": "Movie - The Battle of Chile_ Part II [11651].resources/The Battle of Chile_ Part II [11651].thumb.jpg",
+        "title": "The Battle of Chile: Part II",
+        "titleSort": "Battle of Chile: Part II",
+        "type": "movie",
+        "userRating": null,
+        "year": 1976,
+        "media": [
             {
                 "aspectRatio": 1.78,
                 "audioChannels": 2,
@@ -6262,7 +6290,37 @@
                 "videoProfile": "main",
                 "videoResolution": "720",
                 "width": 1280
-            },
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-09-22T19:27:10",
+        "audienceRating": 6.7,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 5193216,
+        "durationHuman": "1 hr 27 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d77699751dd69001fe18eb1",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/The Battle of Chile Part III.mp4"
+        ],
+        "originalTitle": "La batalla de Chile (Parte 3). El Poder Popular",
+        "originallyAvailableAt": "1979-03-15",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11652,
+        "studio": "Equipe Tercer Ano",
+        "summary": "This film investigates the factory worker's response to the insurrection, as well as Chile's socialist aspirations for the future. The camera captures the optimism in the industrial working class before Pinochet's US-backed coup d'état.",
+        "tagline": null,
+        "thumbFile": "Movie - The Battle of Chile_ Part III [11652].resources/The Battle of Chile_ Part III [11652].thumb.jpg",
+        "title": "The Battle of Chile: Part III",
+        "titleSort": "Battle of Chile: Part III",
+        "type": "movie",
+        "userRating": null,
+        "year": 1979,
+        "media": [
             {
                 "aspectRatio": 1.78,
                 "audioChannels": 2,

@@ -7176,6 +7176,89 @@
         ]
     },
     {
+        "addedAt": "2026-09-23T09:24:19",
+        "audienceRating": 2.3,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "R",
+        "duration": 6465459,
+        "durationHuman": "1 hr 48 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776863eb5d26001f1e91e0",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/Beyond.the.Door.1974.720p.BluRay.x264-x0r[SN]/Beyond.the.Door.1974.720p.BluRay.x264-x0r.mkv",
+            "/mnt/opelis4/Beyond.the.Door.1974.720p.BluRay.x264-x0r[SN]/Beyond.the.Door.1974.720p.BluRay.x264-x0r[TRAILER-Theatrical Trailer].mkv",
+            "/mnt/opelis4/Beyond.the.Door.1974.720p.BluRay.x264-x0r[SN]/Beyond.the.Door.1974.720p.BluRay.x264-x0r[EXTRA-Beyond the Door, 35 Years Later].mkv"
+        ],
+        "originalTitle": "Chi sei?",
+        "originallyAvailableAt": "1974-11-21",
+        "rating": 6.0,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11529,
+        "studio": "A Erre Cinematografica",
+        "summary": "Jessica Barrett, wife and mother of two young children, begins to show signs of demonic possession while pregnant with her third child. As she seeks help from her husband and doctor, a mysterious man approaches her and seems to have some answers.",
+        "tagline": "Evil grows beyond the door!",
+        "thumbFile": "Movie - Beyond the Door [11529].resources/Beyond the Door [11529].thumb.jpg",
+        "title": "Beyond the Door",
+        "titleSort": "Beyond the Door",
+        "type": "movie",
+        "userRating": null,
+        "year": 1974,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 3137,
+                "container": "mkv",
+                "duration": 6465459,
+                "hdr": false,
+                "height": 720,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 1280
+            },
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 2762,
+                "container": "mkv",
+                "duration": 192025,
+                "hdr": false,
+                "height": 720,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 1280
+            },
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 1294,
+                "container": "mkv",
+                "duration": 1235801,
+                "hdr": false,
+                "height": 480,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "480",
+                "width": 720
+            }
+        ]
+    },
+    {
         "addedAt": "2025-04-27T22:54:11",
         "audienceRating": 6.7,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -49753,7 +49836,7 @@
         "durationHuman": "1 hr 37 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d776c2996b655001fe28046",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/Mythica The Iron Crown (2016) [1080p] [YTS.AG]/Mythica.The.Iron.Crown.2016.1080p.BluRay.x264-[YTS.AG].mp4"
         ],
@@ -49777,7 +49860,7 @@
                 "audioChannels": 2,
                 "audioCodec": "aac",
                 "audioProfile": "lc",
-                "bitrate": 2181,
+                "bitrate": 2182,
                 "container": "mp4",
                 "duration": 5836340,
                 "hdr": false,
@@ -55541,7 +55624,7 @@
         "durationHuman": "2 hrs 6 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d77685185719b001f3a8876",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/The Pillow Book (1996) [1080p] [BluRay] [YTS.MX]/The.Pillow.Book.1996.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
         ],
@@ -60616,6 +60699,53 @@
         ]
     },
     {
+        "addedAt": "2026-09-23T09:24:20",
+        "audienceRating": 4.5,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": "Not Rated",
+        "duration": 5224958,
+        "durationHuman": "1 hr 27 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/672125f42815514734bb92a3",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Rumpelstiltskin (2025) [1080p] [WEBRip] [5.1] [YTS.LT]/Rumpelstiltskin.2025.1080p.WEBRip.x264.AAC5.1-[YTS.LT].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2025-04-08",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11532,
+        "studio": "Paranoid Android Films",
+        "summary": "Once upon a time, a miller attempted to marry his daughter off to the King by promising she could spin straw into gold. With the help of a demonic imp, she completes the task, but the King becomes greedy and wants more. So she promises the imp her firstborn in return for yet more favors. But when it comes time to honor her bargain, dark forces merge when the Imp makes a deal with the devil.",
+        "tagline": "Remember the name...",
+        "thumbFile": "Movie - Rumpelstiltskin [11532].resources/Rumpelstiltskin [11532].thumb.jpg",
+        "title": "Rumpelstiltskin",
+        "titleSort": "Rumpelstiltskin",
+        "type": "movie",
+        "userRating": null,
+        "year": 2025,
+        "media": [
+            {
+                "aspectRatio": null,
+                "audioChannels": null,
+                "audioCodec": null,
+                "audioProfile": null,
+                "bitrate": null,
+                "container": null,
+                "duration": null,
+                "hdr": false,
+                "height": null,
+                "isOptimizedVersion": false,
+                "videoCodec": null,
+                "videoFrameRate": null,
+                "videoProfile": null,
+                "videoResolution": null,
+                "width": null
+            }
+        ]
+    },
+    {
         "addedAt": "2023-11-11T12:23:28",
         "audienceRating": 9.0,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -65305,9 +65435,9 @@
         "media": [
             {
                 "aspectRatio": 1.66,
-                "audioChannels": null,
-                "audioCodec": null,
-                "audioProfile": null,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
                 "bitrate": 2148,
                 "container": "mp4",
                 "duration": 6803046,
@@ -65316,7 +65446,7 @@
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "24p",
-                "videoProfile": null,
+                "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1792
             }

@@ -6255,7 +6255,7 @@
         "durationHuman": "1 hr 36 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d77699751dd69001fe18eaf",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/The Battle of Chile Part II.mp4"
         ],
@@ -6302,7 +6302,7 @@
         "durationHuman": "1 hr 27 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d77699751dd69001fe18eb1",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/The Battle of Chile Part III.mp4"
         ],

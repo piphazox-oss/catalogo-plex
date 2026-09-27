@@ -54228,6 +54228,53 @@
         ]
     },
     {
+        "addedAt": "2026-09-27T13:34:38",
+        "audienceRating": 8.0,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 4908000,
+        "durationHuman": "1 hr 22 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776b69594b2b001e6d93d3",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/The Pearl Button (2015).mp4"
+        ],
+        "originalTitle": "El botón de nácar",
+        "originallyAvailableAt": "2015-10-10",
+        "rating": 9.3,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11656,
+        "studio": "France 3 Cinéma",
+        "summary": "Delving into the nearly-religious significance of water, this profound rumination on memory and loss bridges the gap between its mystical origins, Pinochet's coup d'état, and the secret of a mother-of-pearl button at the bottom of the sea.",
+        "tagline": null,
+        "thumbFile": "Movie - The Pearl Button [11656].resources/The Pearl Button [11656].thumb.jpg",
+        "title": "The Pearl Button",
+        "titleSort": "Pearl Button",
+        "type": "movie",
+        "userRating": null,
+        "year": 2015,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 3781,
+                "container": "mp4",
+                "duration": 4908000,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2022-10-23T16:54:18",
         "audienceRating": 8.3,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

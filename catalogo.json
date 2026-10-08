@@ -60808,7 +60808,7 @@
         "audienceRating": 4.5,
         "audienceRatingImage": "imdb://image.rating",
         "contentRating": "Not Rated",
-        "duration": 5224958,
+        "duration": 5236256,
         "durationHuman": "1 hr 27 mins",
         "editionTitle": null,
         "guid": "plex://movie/672125f42815514734bb92a3",
@@ -60832,21 +60832,21 @@
         "year": 2025,
         "media": [
             {
-                "aspectRatio": null,
-                "audioChannels": null,
-                "audioCodec": null,
-                "audioProfile": null,
-                "bitrate": null,
-                "container": null,
-                "duration": null,
+                "aspectRatio": 1.33,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2639,
+                "container": "mp4",
+                "duration": 5236256,
                 "hdr": false,
-                "height": null,
+                "height": 1080,
                 "isOptimizedVersion": false,
-                "videoCodec": null,
-                "videoFrameRate": null,
-                "videoProfile": null,
-                "videoResolution": null,
-                "width": null
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1440
             }
         ]
     },

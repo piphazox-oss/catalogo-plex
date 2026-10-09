@@ -10050,6 +10050,53 @@
         ]
     },
     {
+        "addedAt": "2026-10-08T22:24:32",
+        "audienceRating": 6.6,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 2327466,
+        "durationHuman": "39 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5f40d2285a76a80042f068f6",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/La Cofradia (2016).mp4"
+        ],
+        "originalTitle": "La Cofradía",
+        "originallyAvailableAt": "2015-07-31",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11668,
+        "studio": "Malagüero Films",
+        "summary": "It is said that if you are from Quicaví, means you're a witch. The gray skies of the town and the silence of its people seem to keep a collective secret that few want to talk. Sorcerers are part of a memory that could disappear.",
+        "tagline": null,
+        "thumbFile": "Movie - The Brotherhood [11668].resources/The Brotherhood [11668].thumb.jpg",
+        "title": "The Brotherhood",
+        "titleSort": "Brotherhood",
+        "type": "movie",
+        "userRating": null,
+        "year": 2015,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 3194,
+                "container": "mp4",
+                "duration": 2327466,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2026-08-23T20:55:08",
         "audienceRating": 6.2,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -27497,6 +27544,53 @@
                 "videoProfile": null,
                 "videoResolution": "480",
                 "width": 640
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-10-08T22:24:33",
+        "audienceRating": 8.0,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 7200000,
+        "durationHuman": "2 hrs",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776a5dad5437001f77b7a0",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/[EX-TORRENTY.ORG] The.Geographer.Drank.His.Globe.Away.2013.PL.BDRip.XviD-B89/The.Geographer.Drank.His.Globe.Away.2013.PL.BDRip.XviD-B89.avi"
+        ],
+        "originalTitle": "Географ глобус пропил",
+        "originallyAvailableAt": "2013-11-07",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11669,
+        "studio": "Marmot Film",
+        "summary": "The ordinary troubles of the ordinary teacher in the ordinary class during the ordinary midlife crisis.",
+        "tagline": null,
+        "thumbFile": "Movie - The Geographer Drank His Globe Away [11669].resources/The Geographer Drank His Globe Away [11669].thumb.jpg",
+        "title": "The Geographer Drank His Globe Away",
+        "titleSort": "Geographer Drank His Globe Away",
+        "type": "movie",
+        "userRating": null,
+        "year": 2013,
+        "media": [
+            {
+                "aspectRatio": null,
+                "audioChannels": null,
+                "audioCodec": null,
+                "audioProfile": null,
+                "bitrate": null,
+                "container": null,
+                "duration": null,
+                "hdr": false,
+                "height": null,
+                "isOptimizedVersion": false,
+                "videoCodec": null,
+                "videoFrameRate": null,
+                "videoProfile": null,
+                "videoResolution": null,
+                "width": null
             }
         ]
     },

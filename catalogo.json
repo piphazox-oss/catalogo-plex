@@ -56007,7 +56007,7 @@
         "audienceRating": 5.2,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "Not Rated",
-        "duration": 5280000,
+        "duration": 5257503,
         "durationHuman": "1 hr 28 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d9f3dc1d74e67002002ab2a",
@@ -56031,21 +56031,21 @@
         "year": 1965,
         "media": [
             {
-                "aspectRatio": null,
-                "audioChannels": null,
-                "audioCodec": null,
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "flac",
                 "audioProfile": null,
-                "bitrate": null,
-                "container": null,
-                "duration": null,
+                "bitrate": 19118,
+                "container": "mkv",
+                "duration": 5257503,
                 "hdr": false,
-                "height": null,
+                "height": 1036,
                 "isOptimizedVersion": false,
-                "videoCodec": null,
-                "videoFrameRate": null,
-                "videoProfile": null,
-                "videoResolution": null,
-                "width": null
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },

@@ -18145,6 +18145,53 @@
         ]
     },
     {
+        "addedAt": "2026-10-18T22:04:52",
+        "audienceRating": 8.6,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 5076126,
+        "durationHuman": "1 hr 25 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768b3594b2b001e69323b",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Death Of A Cyclist (1955) 720p BluRay-WORLD/Death.Of.A.Cyclist.1955.720p.BluRay.x264.AAC-WORLD.mp4"
+        ],
+        "originalTitle": "Muerte de un ciclista",
+        "originallyAvailableAt": "1955-09-07",
+        "rating": 10.0,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11701,
+        "studio": "Guión PC",
+        "summary": "A couple having an affair strike a bicyclist with their car and do not offer aid out of fear of their relationship being exposed.",
+        "tagline": "Death on the road.",
+        "thumbFile": "Movie - Death of a Cyclist [11701].resources/Death of a Cyclist [11701].thumb.jpg",
+        "title": "Death of a Cyclist",
+        "titleSort": "Death of a Cyclist",
+        "type": "movie",
+        "userRating": null,
+        "year": 1955,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 1286,
+                "container": "mp4",
+                "duration": 5076126,
+                "hdr": false,
+                "height": 720,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 966
+            }
+        ]
+    },
+    {
         "addedAt": "2024-04-27T15:41:55",
         "audienceRating": 7.0,
         "audienceRatingImage": "imdb://image.rating",
@@ -53002,6 +53049,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-10-18T22:04:52",
+        "audienceRating": 6.9,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 6706742,
+        "durationHuman": "1 hr 52 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768a87a53e9001e6d56d6",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Wan.Pipel.1976.720p.BluRay.x264-HDEX/wan.pipel.1976.720p.bluray.x264-hdex.mkv"
+        ],
+        "originalTitle": "Wan Pipel",
+        "originallyAvailableAt": "1976-08-19",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11700,
+        "studio": "Nederlands Fonds voor de Film",
+        "summary": "Roy is a handsome Surinam man, who studies in Amsterdam. He hurriedly left his Dutch girlfriend Karina to visit his dying mom in Paramaribo. Back in his homeland, Roy soon becomes obsessed with his own country and its culture. When he falls for the Hindu nurse Rubia, the conservative Hindu and Black communities are in revolt. One day Karina arrives in Surinam too.",
+        "tagline": "One was black. One was white. One was brown.",
+        "thumbFile": "Movie - One People [11700].resources/One People [11700].thumb.jpg",
+        "title": "One People",
+        "titleSort": "One People",
+        "type": "movie",
+        "userRating": null,
+        "year": 1976,
+        "media": [
+            {
+                "aspectRatio": 1.66,
+                "audioChannels": 2,
+                "audioCodec": "flac",
+                "audioProfile": null,
+                "bitrate": 6997,
+                "container": "mkv",
+                "duration": 6706742,
+                "hdr": false,
+                "height": 720,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 1192
             }
         ]
     },

@@ -8369,6 +8369,53 @@
         ]
     },
     {
+        "addedAt": "2026-10-08T23:19:02",
+        "audienceRating": 7.6,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 5319736,
+        "durationHuman": "1 hr 29 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768562e80df001ebe1bc8",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Blood and Black Lace 1964 1080p BluRay x264-OFT/Blood and Black Lace 1964 1080p BluRay x264-OFT.mkv"
+        ],
+        "originalTitle": "Sei donne per l'assassino",
+        "originallyAvailableAt": "1964-06-05",
+        "rating": 7.5,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11714,
+        "studio": "Emmepi Cinematografica",
+        "summary": "Isabella, a young model, is murdered by a mysterious masked figure at a boarding house run by Max Morlan and his lover, Countess Christina Como. When Isabella's boyfriend is suspected of the killing, her diary, which apparently has some incriminating evidence linking her to the killer, disappears, and the masked killer starts killing off all the models in and around the house to find the diary.",
+        "tagline": "A Fashion House of Models… Becomes a Terror House of Blood!",
+        "thumbFile": "Movie - Blood and Black Lace [11714].resources/Blood and Black Lace [11714].thumb.jpg",
+        "title": "Blood and Black Lace",
+        "titleSort": "Blood and Black Lace",
+        "type": "movie",
+        "userRating": null,
+        "year": 1964,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 1,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 5858,
+                "container": "mkv",
+                "duration": 5319736,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-01-16T14:22:09",
         "audienceRating": 9.0,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -57882,6 +57929,53 @@
         ]
     },
     {
+        "addedAt": "2026-10-19T18:26:02",
+        "audienceRating": null,
+        "audienceRatingImage": null,
+        "contentRating": null,
+        "duration": 5917077,
+        "durationHuman": "1 hr 39 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/6a409ca0a4160d9023726930",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Pulp What Do You Do For An Encore (2026) [1080p] [WEBRip] [YTS.GG - YTS.BZ]/Pulp.What.Do.You.Do.For.An.Encore.2026.1080p.WEBRip.x264.AAC-[YTS.GG - YTS.BZ].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2026-09-24",
+        "rating": 9.5,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11713,
+        "studio": "MUBI",
+        "summary": "Charting the Sheffield band's extraordinary journey from obscurity to cultural touchstone. Fusing footage from Pulp's biggest ever arena show with four decades of colourful, never-seen-before archival material.",
+        "tagline": null,
+        "thumbFile": "Movie - Pulp_ What Do You Do for an Encore_ [11713].resources/Pulp_ What Do You Do for an Encore_ [11713].thumb.jpg",
+        "title": "Pulp: What Do You Do for an Encore?",
+        "titleSort": "Pulp: What Do You Do for an Encore?",
+        "type": "movie",
+        "userRating": null,
+        "year": 2026,
+        "media": [
+            {
+                "aspectRatio": 2.35,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2383,
+                "container": "mp4",
+                "duration": 5917077,
+                "hdr": false,
+                "height": 804,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2022-09-19T11:40:22",
         "audienceRating": 6.0,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -80535,53 +80629,6 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1918
-            }
-        ]
-    },
-    {
-        "addedAt": "2026-10-08T23:19:02",
-        "audienceRating": null,
-        "audienceRatingImage": null,
-        "contentRating": null,
-        "duration": 5319735,
-        "durationHuman": "1 hr 29 mins",
-        "editionTitle": null,
-        "guid": "local://11672",
-        "hasCreditsMarker": true,
-        "locations": [
-            "/mnt/opelis4/www.UIndex.org    -    Blood and Black Lace 1964 1080p BluRay x264-OFT/Blood and Black Lace 1964 1080p BluRay x264-OFT.mkv"
-        ],
-        "originalTitle": null,
-        "originallyAvailableAt": null,
-        "rating": null,
-        "ratingImage": null,
-        "ratingKey": 11672,
-        "studio": null,
-        "summary": "",
-        "tagline": null,
-        "thumbFile": "Movie - Www UIndex Org Blood and Black Lace [11672].resources/Www UIndex Org Blood and Black Lace [11672].thumb.jpg",
-        "title": "Www UIndex Org Blood and Black Lace",
-        "titleSort": "Www UIndex Org Blood and Black Lace",
-        "type": "movie",
-        "userRating": null,
-        "year": 1964,
-        "media": [
-            {
-                "aspectRatio": 1.78,
-                "audioChannels": 1,
-                "audioCodec": "ac3",
-                "audioProfile": null,
-                "bitrate": 5856,
-                "container": "mkv",
-                "duration": 5319735,
-                "hdr": false,
-                "height": 1080,
-                "isOptimizedVersion": false,
-                "videoCodec": "h264",
-                "videoFrameRate": "24p",
-                "videoProfile": "high",
-                "videoResolution": "1080",
-                "width": 1920
             }
         ]
     },

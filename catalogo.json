@@ -7140,6 +7140,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-01T15:53:27",
+        "audienceRating": 5.1,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "PG-13",
+        "duration": 6889568,
+        "durationHuman": "1 hr 55 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d9f3ce94441b1001fa15e4c",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Beware The Slenderman (2016) [1080p] [WEBRip] [5.1] [YTS.MX]/Beware.The.Slenderman.2016.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2016-03-11",
+        "rating": 8.5,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11773,
+        "studio": "Vermilion Films",
+        "summary": "In this horrifyingly modern fairytale lurks an online Boogeyman and two 12-year-old girls who would kill for him. The entrance to the internet quickly leads to its darkest basement. How responsible are our children for what they find there?",
+        "tagline": "On May 31st, 2014, in the woods outside of Waukesha, Wisconsin, two 12-year old girls stabbed their classmate 19 times. This is the true story of what drove them to do it.",
+        "thumbFile": "Movie - Beware the Slenderman [11773].resources/Beware the Slenderman [11773].thumb.jpg",
+        "title": "Beware the Slenderman",
+        "titleSort": "Beware the Slenderman",
+        "type": "movie",
+        "userRating": null,
+        "year": 2016,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2639,
+                "container": "mp4",
+                "duration": 6889568,
+                "hdr": false,
+                "height": 1072,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2026-07-10T17:58:47",
         "audienceRating": 6.0,
         "audienceRatingImage": "imdb://image.rating",
@@ -10751,6 +10798,53 @@
                 "videoProfile": "high",
                 "videoResolution": "720",
                 "width": 1280
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-01T15:53:26",
+        "audienceRating": 2.2,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "PG-13",
+        "duration": 5988405,
+        "durationHuman": "1 hr 40 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776b21594b2b001e6d0393",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/The Bye Bye Man (2017) [1080p] [YTS.AG]/The.Bye.Bye.Man.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2017-01-06",
+        "rating": 1.9,
+        "ratingImage": "rottentomatoes://image.rating.rotten",
+        "ratingKey": 11771,
+        "studio": "Los Angeles Media Fund",
+        "summary": "When three college students move into an old house off campus, they unwittingly unleash a supernatural entity known as The Bye Bye Man, who comes to prey upon them once they discover its name. The friends must try to save each other, all the while keeping The Bye Bye Man's existence a secret to save others from the same deadly fate.",
+        "tagline": "Don't think it. Don't say it.",
+        "thumbFile": "Movie - The Bye Bye Man [11771].resources/The Bye Bye Man [11771].thumb.jpg",
+        "title": "The Bye Bye Man",
+        "titleSort": "Bye Bye Man",
+        "type": "movie",
+        "userRating": null,
+        "year": 2017,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2186,
+                "container": "mp4",
+                "duration": 5988405,
+                "hdr": false,
+                "height": 1024,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },
@@ -35764,7 +35858,7 @@
         "guid": "plex://movie/5d77682a2ec6b5001f6ba921",
         "hasCreditsMarker": false,
         "locations": [
-            "/mnt/opelis4/In My Skin (2002)/In My Skin (2002).mkv"
+            "/mnt/opelis4/In my skin (2002)/In My Skin (2002).mkv"
         ],
         "originalTitle": "Dans ma peau",
         "originallyAvailableAt": "2002-12-04",
@@ -40010,6 +40104,53 @@
                 "duration": 11373487,
                 "hdr": false,
                 "height": 818,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-01T15:53:26",
+        "audienceRating": 5.5,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 4909920,
+        "durationHuman": "1 hr 22 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/62d28d08998af12cdc665159",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Kisaragi Station (2022) [1080p] [WEBRip] [YTS.MX]/Kisaragi.Station.2022.1080p.WEBRip.x264.AAC-[YTS.MX].mp4"
+        ],
+        "originalTitle": "きさらぎ駅",
+        "originallyAvailableAt": "2022-06-03",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11769,
+        "studio": "Canter",
+        "summary": "Haruna Tsunematsu (Yuri Tsunematsu) is studying folklore at university and she decides the subject of her graduation thesis will be the \"Kisaragi Station\" urban legend which has been a hot topic on the Internet since 2004.",
+        "tagline": "It is a different world that you should not reach!",
+        "thumbFile": "Movie - Kisaragi Station [11769].resources/Kisaragi Station [11769].thumb.jpg",
+        "title": "Kisaragi Station",
+        "titleSort": "Kisaragi Station",
+        "type": "movie",
+        "userRating": null,
+        "year": 2022,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2383,
+                "container": "mp4",
+                "duration": 4909920,
+                "hdr": false,
+                "height": 1080,
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "24p",
@@ -62564,8 +62705,8 @@
         "audienceRating": 5.2,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
         "contentRating": "Not Rated",
-        "duration": 237120,
-        "durationHuman": "3 mins 57 secs",
+        "duration": 5273000,
+        "durationHuman": "1 hr 28 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d77683aeb5d26001f1e1e0b",
         "hasCreditsMarker": true,
@@ -62592,9 +62733,9 @@
                 "audioChannels": 2,
                 "audioCodec": "mp3",
                 "audioProfile": null,
-                "bitrate": 1132,
+                "bitrate": 1113,
                 "container": "avi",
-                "duration": 237120,
+                "duration": 5273000,
                 "hdr": false,
                 "height": 320,
                 "isOptimizedVersion": false,
@@ -67202,6 +67343,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-01T15:53:26",
+        "audienceRating": 4.4,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": "Not Rated",
+        "duration": 4748842,
+        "durationHuman": "1 hr 19 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7770aaad5437001f827f68",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/The Soviet Sleep Experiment (2019) [1080p] [WEBRip] [YTS.MX]/The.Soviet.Sleep.Experiment.2019.1080p.WEBRip.x264.AAC-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2019-10-18",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11768,
+        "studio": "Mogo Media",
+        "summary": "In the late 1940s, Russian researchers kept four test patients awake for thirty days using an experimental gas-based stimulant. The researchers were cut off from the world and asked to do a series of tests on the subjects. What starts as a purely scientific study, quickly spirals out of control. As the experiment progresses, the subjects take matters into their own hands and test the concept of truth as a matter of life and death.",
+        "tagline": "What happens when staying awake means your nightmare never ends.",
+        "thumbFile": "Movie - The Soviet Sleep Experiment [11768].resources/The Soviet Sleep Experiment [11768].thumb.jpg",
+        "title": "The Soviet Sleep Experiment",
+        "titleSort": "Soviet Sleep Experiment",
+        "type": "movie",
+        "userRating": null,
+        "year": 2019,
+        "media": [
+            {
+                "aspectRatio": 2.2,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2386,
+                "container": "mp4",
+                "duration": 4748842,
+                "hdr": false,
+                "height": 856,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2025-04-11T12:18:51",
         "audienceRating": 8.6,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -71450,6 +71638,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-01T15:53:27",
+        "audienceRating": 6.0,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 4415161,
+        "durationHuman": "1 hr 14 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776835103a2d001f567da0",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Them (Ils) (2006) 1080p BrRip 5.1 x264 aac [TuGAZx]/Them (Ils) (2006) 1080p BrRip 5.1 x264 aac [TuGAZx].mp4"
+        ],
+        "originalTitle": "Ils",
+        "originallyAvailableAt": "2006-04-20",
+        "rating": 6.3,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11774,
+        "studio": "Eskwad",
+        "summary": "Lucas and Clementine live peacefully in their isolated country house, but one night they wake up to strange noise... they're not alone... and a group of hooded assailants begin to terrorize them throughout the night.",
+        "tagline": "They're already inside.",
+        "thumbFile": "Movie - Them [11774].resources/Them [11774].thumb.jpg",
+        "title": "Them",
+        "titleSort": "Them",
+        "type": "movie",
+        "userRating": null,
+        "year": 2006,
+        "media": [
+            {
+                "aspectRatio": 2.35,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 3915,
+                "container": "mp4",
+                "duration": 4415161,
+                "hdr": false,
+                "height": 824,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2026-06-22T00:24:32",
         "audienceRating": 5.7,
         "audienceRatingImage": "imdb://image.rating",
@@ -74237,6 +74472,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1280
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-01T15:53:26",
+        "audienceRating": 5.3,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "Not Rated",
+        "duration": 6057376,
+        "durationHuman": "1 hr 41 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776d039ab544002151acdb",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Trouble Every Day (2001) [1080p] [BluRay] [5.1] [YTS.MX]/Trouble.Every.Day.2001.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2001-07-11",
+        "rating": 5.9,
+        "ratingImage": "rottentomatoes://image.rating.rotten",
+        "ratingKey": 11770,
+        "studio": "Messaoud/a Films",
+        "summary": "Newlyweds Shane and June arrive in Paris for their honeymoon. In the process of trying to find a cure for his strange, bloodthirsty disease, Shane stumbles upon the story of a doctor and his flesh eating wife.",
+        "tagline": "I love you so much. I could eat you.",
+        "thumbFile": "Movie - Trouble Every Day [11770].resources/Trouble Every Day [11770].thumb.jpg",
+        "title": "Trouble Every Day",
+        "titleSort": "Trouble Every Day",
+        "type": "movie",
+        "userRating": null,
+        "year": 2001,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2640,
+                "container": "mp4",
+                "duration": 6057376,
+                "hdr": false,
+                "height": 1036,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },

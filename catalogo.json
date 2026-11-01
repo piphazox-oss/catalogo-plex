@@ -18576,7 +18576,7 @@
         "durationHuman": "1 hr 17 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d776a8747dd6e001f6d3b51",
-        "hasCreditsMarker": true,
+        "hasCreditsMarker": false,
         "locations": [
             "/mnt/opelis4/The Den (2013) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Den.2013.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
         ],
@@ -18670,7 +18670,7 @@
         "durationHuman": "1 hr 35 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d776bdbfb0d55001f57526b",
-        "hasCreditsMarker": true,
+        "hasCreditsMarker": false,
         "locations": [
             "/mnt/opelis4/Descent Into Darkness (2013) [DIRECTORS CUT] [1080p] [WEBRip] [YTS.MX]/Descent.Into.Darkness.2013.DIRECTORS.CUT.1080p.WEBRip.x264.AAC-[YTS.MX].mp4"
         ],

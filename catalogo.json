@@ -15516,6 +15516,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-04T14:19:22",
+        "audienceRating": 7.5,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": null,
+        "duration": 5095432,
+        "durationHuman": "1 hr 25 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7770bbdd931c001e392d51",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/The Cordillera Of Dreams (2019) [1080p] [WEBRip] [YTS.MX]/The.Cordillera.Of.Dreams.2019.1080p.WEBRip.x264.AAC-[YTS.MX].mp4"
+        ],
+        "originalTitle": "La cordillera de los sueños",
+        "originallyAvailableAt": "2019-10-10",
+        "rating": 9.3,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11817,
+        "studio": "Atacama Productions",
+        "summary": "Patricio Guzmán left Chile more than 40 years ago when the military dictatorship took over the democratically-elected government, but he never stopped thinking about a country, a culture, and a place on the map that he never forgot. After covering the North in Nostalgia for the Light and the South in The Pearl Button, his shots get up-close with what he calls \"the vast revealing backbone of Chile's past and recent history.",
+        "tagline": null,
+        "thumbFile": "Movie - The Cordillera of Dreams [11817].resources/The Cordillera of Dreams [11817].thumb.jpg",
+        "title": "The Cordillera of Dreams",
+        "titleSort": "Cordillera of Dreams",
+        "type": "movie",
+        "userRating": null,
+        "year": 2019,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2386,
+                "container": "mp4",
+                "duration": 5095432,
+                "hdr": false,
+                "height": 1040,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2026-06-22T00:23:41",
         "audienceRating": 7.9,
         "audienceRatingImage": "imdb://image.rating",
@@ -43035,6 +43082,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-04T14:19:22",
+        "audienceRating": 3.1,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "PG-13",
+        "duration": 5625560,
+        "durationHuman": "1 hr 34 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776d7351dd69001fe42b01",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Living.Dark.The.Story.Of.Ted.The.Caver.2013.DVDRip.x264-SPOOKS[1337x][SN]/living.dark.the.story.of.ted.the.caver.2013.dvdrip.x264-spooks.mkv"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2013-09-11",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11816,
+        "studio": null,
+        "summary": "Two brothers, reunited for their father's funeral, stumble upon the entrance to a nearby cave, where they are slowly forced to confront the true, nightmarish cause of their father's death. Based on the popular Ted the Caver Internet legend.",
+        "tagline": "Be careful what you dig for",
+        "thumbFile": "Movie - Living Dark_ The Story of Ted the Caver [11816].resources/Living Dark_ The Story of Ted the Caver [11816].thumb.jpg",
+        "title": "Living Dark: The Story of Ted the Caver",
+        "titleSort": "Living Dark: The Story of Ted the Caver",
+        "type": "movie",
+        "userRating": null,
+        "year": 2013,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 1208,
+                "container": "mkv",
+                "duration": 5625560,
+                "hdr": false,
+                "height": 404,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "PAL",
+                "videoProfile": "high",
+                "videoResolution": "sd",
+                "width": 720
+            }
+        ]
+    },
+    {
         "addedAt": "2025-02-02T15:43:02",
         "audienceRating": 4.9,
         "audienceRatingImage": "imdb://image.rating",
@@ -47879,6 +47973,53 @@
                 "videoProfile": "high",
                 "videoResolution": "sd",
                 "width": 720
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-04T14:19:21",
+        "audienceRating": 2.8,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "R",
+        "duration": 4460873,
+        "durationHuman": "1 hr 14 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7769e296b655001fddca2b",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/The Midnight Game (2013) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Midnight.Game.2013.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2013-03-02",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11813,
+        "studio": "Budderfly Productions",
+        "summary": "A partying teen and her friends decide to perform an ancient pagan ritual found online called 'The Midnight Game': Candles are lit. A drop of blood is spilled. Their worst fears are confessed and an entity is summoned. But if the rules are not followed exactly, punishment is promised. Tonight, the game is not being taken seriously. A demonic horror has been unleashed. And now, even daylight cannot stop the nightmares that may destroy them all.",
+        "tagline": null,
+        "thumbFile": "Movie - The Midnight Game [11813].resources/The Midnight Game [11813].thumb.jpg",
+        "title": "The Midnight Game",
+        "titleSort": "Midnight Game",
+        "type": "movie",
+        "userRating": null,
+        "year": 2013,
+        "media": [
+            {
+                "aspectRatio": 2.35,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2638,
+                "container": "mp4",
+                "duration": 4460873,
+                "hdr": false,
+                "height": 816,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },
@@ -62448,6 +62589,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-04T14:19:21",
+        "audienceRating": 6.3,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 7829835,
+        "durationHuman": "2 hrs 10 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d7768aa47dd6e001f6bd312",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Sailor Suit and Machine Gun (1981)/Sailor Suit and Machine Gun (1981).mkv"
+        ],
+        "originalTitle": "セーラー服と機関銃",
+        "originallyAvailableAt": "1981-12-19",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11814,
+        "studio": "KADOKAWA",
+        "summary": "A teenage delinquent schoolgirl named Izumi Hoshi inherits her father's Yakuza clan.",
+        "tagline": null,
+        "thumbFile": "Movie - Sailor Suit and Machine Gun [11814].resources/Sailor Suit and Machine Gun [11814].thumb.jpg",
+        "title": "Sailor Suit and Machine Gun",
+        "titleSort": "Sailor Suit and Machine Gun",
+        "type": "movie",
+        "userRating": null,
+        "year": 1981,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 1,
+                "audioCodec": "flac",
+                "audioProfile": null,
+                "bitrate": 6401,
+                "container": "mkv",
+                "duration": 7829835,
+                "hdr": false,
+                "height": 1036,
+                "isOptimizedVersion": false,
+                "videoCodec": "hevc",
+                "videoFrameRate": "24p",
+                "videoProfile": "main 10",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2026-11-03T22:47:12",
         "audienceRating": null,
         "audienceRatingImage": null,
@@ -67118,7 +67306,8 @@
         "guid": "plex://movie/629734cfe6123c224d8f32c3",
         "hasCreditsMarker": true,
         "locations": [
-            "/mnt/opelis4/Sorcery (2023) [1080p] [WEBRip] [5.1] [YTS.MX]/Sorcery.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
+            "/mnt/opelis4/Sorcery (2023) [1080p] [WEBRip] [5.1] [YTS.MX]/Sorcery.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4",
+            "/mnt/opelis4/Sorcery (2023) 720p WEBRip-WORLD/Sorcery.2023.720p.WEBRip.x264.AAC-WORLD.mp4"
         ],
         "originalTitle": "Brujería",
         "originallyAvailableAt": "2023-03-16",
@@ -67151,6 +67340,23 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920
+            },
+            {
+                "aspectRatio": 2.35,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 1284,
+                "container": "mp4",
+                "duration": 6075584,
+                "hdr": false,
+                "height": 534,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "720",
+                "width": 1280
             }
         ]
     },
@@ -76490,6 +76696,53 @@
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-04T14:19:22",
+        "audienceRating": 6.6,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "Not Rated",
+        "duration": 5578280,
+        "durationHuman": "1 hr 33 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776d9b594b2b001e70d4c4",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Utoya July 22 2018 1080p BluRay x264-nikt0/Utoya July 22 2018 1080p BluRay x264-nikt0.mkv"
+        ],
+        "originalTitle": "Utøya 22. juli",
+        "originallyAvailableAt": "2018-03-09",
+        "rating": 8.1,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11818,
+        "studio": "Paradox Produksjon",
+        "summary": "A teenage girl struggles to survive and to find her younger sister during the July 2011 terrorist mass murder at a political summer camp on the Norwegian island of Utøya.",
+        "tagline": "The day that changed us forever",
+        "thumbFile": "Movie - Utya_ July 22 [11818].resources/Utya_ July 22 [11818].thumb.jpg",
+        "title": "Utøya: July 22",
+        "titleSort": "Ut0ya: July 22",
+        "type": "movie",
+        "userRating": null,
+        "year": 2018,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 6,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 6203,
+                "container": "mkv",
+                "duration": 5578280,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "PAL",
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920

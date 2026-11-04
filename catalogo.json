@@ -52369,7 +52369,7 @@
                 "audioChannels": 6,
                 "audioCodec": "dca",
                 "audioProfile": "dts",
-                "bitrate": 9433,
+                "bitrate": 10387,
                 "container": "mkv",
                 "duration": 5412040,
                 "hdr": false,
@@ -61790,6 +61790,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-03T22:47:11",
+        "audienceRating": null,
+        "audienceRatingImage": null,
+        "contentRating": null,
+        "duration": 5653280,
+        "durationHuman": "1 hr 34 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/63b31d8a3bd9673a2c70bfb1",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Rose (2026) [1080p] [BluRay] [5.1] [YTS.GG - YTS.BZ]/Rose.2026.1080p.BluRay.x264.AAC5.1-[YTS.GG - YTS.BZ].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2026-04-17",
+        "rating": 9.7,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11811,
+        "studio": "Schubert",
+        "summary": "In the early 17th century, a soldier arrives at an isolated Protestant village in Germany claiming to be the heir to an abandoned farmstead. Even though he proves to be a good man, the villagers’ suspicions about his identity grow and they force a reckoning.",
+        "tagline": null,
+        "thumbFile": "Movie - Rose [11811].resources/Rose [11811].thumb.jpg",
+        "title": "Rose",
+        "titleSort": "Rose",
+        "type": "movie",
+        "userRating": null,
+        "year": 2026,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2638,
+                "container": "mp4",
+                "duration": 5653280,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-02-18T13:52:16",
         "audienceRating": 8.7,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -62397,6 +62444,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-03T22:47:12",
+        "audienceRating": null,
+        "audienceRatingImage": null,
+        "contentRating": null,
+        "duration": 6704164,
+        "durationHuman": "1 hr 52 mins",
+        "editionTitle": null,
+        "guid": "local://11812",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/Sailor.Suit.and.Machine.Gun.Shinji.Somai.1981.DVDRip.JAP/1981 Sailor Suit and Machine Gun - Shinji Somai.mkv"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": null,
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11812,
+        "studio": null,
+        "summary": "",
+        "tagline": null,
+        "thumbFile": "Movie - Sailor Suit and Machine Gun Shinji Somai [11812].resources/Sailor Suit and Machine Gun Shinji Somai [11812].thumb.jpg",
+        "title": "Sailor Suit and Machine Gun Shinji Somai",
+        "titleSort": "Sailor Suit and Machine Gun Shinji Somai",
+        "type": "movie",
+        "userRating": null,
+        "year": 1981,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "ac3",
+                "audioProfile": null,
+                "bitrate": 1892,
+                "container": "mkv",
+                "duration": 6704164,
+                "hdr": false,
+                "height": 438,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "main",
+                "videoResolution": "sd",
+                "width": 674
             }
         ]
     },
@@ -76772,6 +76866,53 @@
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-03T22:47:11",
+        "audienceRating": 2.0,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "Not Rated",
+        "duration": 5898304,
+        "durationHuman": "1 hr 38 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/6a71d46939ed990bbd1bb202",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/V H S Mixtape (2026) [1080p] [WEBRip] [5.1] [YTS.GG - YTS.BZ]/V.H.S.Mixtape.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG - YTS.BZ].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2026-10-09",
+        "rating": 5.0,
+        "ratingImage": "rottentomatoes://image.rating.rotten",
+        "ratingKey": 11810,
+        "studio": "Spooky Pictures",
+        "summary": "It presents a new anthology in which music and sound become a source of terror.",
+        "tagline": "Low fidelity. High body count.",
+        "thumbFile": "Movie - V_H_S_Mixtape [11810].resources/V_H_S_Mixtape [11810].thumb.jpg",
+        "title": "V/H/S/Mixtape",
+        "titleSort": "V/H/S/Mixtape",
+        "type": "movie",
+        "userRating": null,
+        "year": 2026,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2639,
+                "container": "mp4",
+                "duration": 5898304,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920

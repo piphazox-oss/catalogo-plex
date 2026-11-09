@@ -4849,7 +4849,7 @@
     },
     {
         "addedAt": "2023-06-21T13:04:01",
-        "audienceRating": 7.8,
+        "audienceRating": 7.6,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
         "contentRating": null,
         "duration": 17072266,
@@ -12393,7 +12393,7 @@
         ],
         "originalTitle": null,
         "originallyAvailableAt": "2007-12-15",
-        "rating": 1.8,
+        "rating": 1.9,
         "ratingImage": "rottentomatoes://image.rating.rotten",
         "ratingKey": 1230,
         "studio": "Peace Arch Entertainment Group",

@@ -5036,6 +5036,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-09T18:36:14",
+        "audienceRating": 2.5,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "R",
+        "duration": 5253760,
+        "durationHuman": "1 hr 28 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5e833bb45a11f70042d67c03",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/The Assistant (2019) [1080p] [BluRay] [5.1] [YTS.MX]/The.Assistant.2019.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2020-01-31",
+        "rating": 9.3,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11822,
+        "studio": "Forensic Films",
+        "summary": "A searing look at a day in the life of an assistant to a powerful executive. As Jane follows her daily routine, she grows increasingly aware of the insidious abuse that threatens every aspect of her position.",
+        "tagline": null,
+        "thumbFile": "Movie - The Assistant [11822].resources/The Assistant [11822].thumb.jpg",
+        "title": "The Assistant",
+        "titleSort": "Assistant",
+        "type": "movie",
+        "userRating": null,
+        "year": 2020,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2639,
+                "container": "mp4",
+                "duration": 5253760,
+                "hdr": false,
+                "height": 960,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-09-15T15:12:59",
         "audienceRating": 6.6,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -18568,6 +18615,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-09T18:36:15",
+        "audienceRating": 7.3,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 5501496,
+        "durationHuman": "1 hr 32 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d77689e374a5b001fecaf54",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Deep End (1970) [1080p] [BluRay] [YTS.MX]/Deep.End.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1970-09-01",
+        "rating": 9.0,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11826,
+        "studio": "Maran Film",
+        "summary": "15-year-old Mike takes a job at the local swimming baths, where he becomes obsessed with an attractive young woman, Susan, who works there as an attendant. Although Susan has a fiancé, Mike does his best to sabotage the relationship, to the extent of stalking both her and her fiancé. Mike becomes increasingly desperate to have Susan for himself, with tragic results.",
+        "tagline": "If you can't have the real thing— you do all kinds of unreal things.",
+        "thumbFile": "Movie - Deep End [11826].resources/Deep End [11826].thumb.jpg",
+        "title": "Deep End",
+        "titleSort": "Deep End",
+        "type": "movie",
+        "userRating": null,
+        "year": 1970,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2384,
+                "container": "mp4",
+                "duration": 5501496,
+                "hdr": false,
+                "height": 1040,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-03-03T15:09:10",
         "audienceRating": 8.5,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -20991,6 +21085,53 @@
                 "duration": 5685696,
                 "hdr": false,
                 "height": 1072,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-09T18:36:15",
+        "audienceRating": 4.9,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "PG-13",
+        "duration": 5395050,
+        "durationHuman": "1 hr 30 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d9f3500d5fd3f001ee150f0",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Dracula Dead And Loving It (1995) [1080p] [BluRay] [YTS.MX]/Dracula.Dead.And.Loving.It.1995.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1995-12-22",
+        "rating": 1.1,
+        "ratingImage": "rottentomatoes://image.rating.rotten",
+        "ratingKey": 11825,
+        "studio": "Castle Rock Entertainment",
+        "summary": "Another spoof from the mind of Mel Brooks. This time he's out to poke fun at the Dracula myth. Basically, he took \"Bram Stoker's Dracula,\" gave it a new cast and a new script and made a big joke out of it. The usual, rich English are attacked by Dracula and Dr. Van Helsing is brought in to save the day.",
+        "tagline": "You'll laugh until you die...then you'll rise from the dead and laugh again!",
+        "thumbFile": "Movie - Dracula_ Dead and Loving It [11825].resources/Dracula_ Dead and Loving It [11825].thumb.jpg",
+        "title": "Dracula: Dead and Loving It",
+        "titleSort": "Dracula: Dead and Loving It",
+        "type": "movie",
+        "userRating": null,
+        "year": 1995,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2383,
+                "container": "mp4",
+                "duration": 5395050,
+                "hdr": false,
+                "height": 1024,
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "24p",
@@ -25910,6 +26051,53 @@
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1918
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-09T18:36:14",
+        "audienceRating": 6.8,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 6793829,
+        "durationHuman": "1 hr 53 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776d357a53e9001e7546db",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/First Reformed (2017) [BluRay] [1080p] [YTS.AM]/First.Reformed.2017.1080p.BluRay.x264-[YTS.AM].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2018-06-07",
+        "rating": 9.4,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11823,
+        "studio": "Arclight Films",
+        "summary": "A pastor's life spirals out of control after a soul-shaking encounter with an activist and his wife.",
+        "tagline": "The kingdom come undone.",
+        "thumbFile": "Movie - First Reformed [11823].resources/First Reformed [11823].thumb.jpg",
+        "title": "First Reformed",
+        "titleSort": "First Reformed",
+        "type": "movie",
+        "userRating": null,
+        "year": 2018,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2278,
+                "container": "mp4",
+                "duration": 6793829,
+                "hdr": false,
+                "height": 1072,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1440
             }
         ]
     },
@@ -53038,6 +53226,53 @@
                 "videoProfile": "advanced simple",
                 "videoResolution": "sd",
                 "width": 688
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-09T18:36:15",
+        "audienceRating": 9.3,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 5355339,
+        "durationHuman": "1 hr 29 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776829961905001eb91cf5",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/Office Space (1999) [1080p] [BluRay] [5.1] [YTS.MX]/Office.Space.1999.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "1999-02-19",
+        "rating": 8.2,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11824,
+        "studio": "20th Century Fox",
+        "summary": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+        "tagline": "Work sucks.",
+        "thumbFile": "Movie - Office Space [11824].resources/Office Space [11824].thumb.jpg",
+        "title": "Office Space",
+        "titleSort": "Office Space",
+        "type": "movie",
+        "userRating": null,
+        "year": 1999,
+        "media": [
+            {
+                "aspectRatio": 1.85,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2640,
+                "container": "mp4",
+                "duration": 5355339,
+                "hdr": false,
+                "height": 1040,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },

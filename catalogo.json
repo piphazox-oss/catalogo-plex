@@ -47395,6 +47395,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-16T21:54:00",
+        "audienceRating": null,
+        "audienceRatingImage": null,
+        "contentRating": null,
+        "duration": 6603933,
+        "durationHuman": "1 hr 50 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/69c44c667275b7906dbd446f",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/El Deshielo (2026).mkv"
+        ],
+        "originalTitle": "El deshielo",
+        "originallyAvailableAt": "2026-08-26",
+        "rating": 8.8,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11879,
+        "studio": "Piano",
+        "summary": "In 1992 Chile, nine-year-old Inés bonds with teenage German skier Hanna at a remote mountain hotel. When Hanna mysteriously disappears, the investigation reveals long-buried secrets in this post-dictatorship mystery drama.",
+        "tagline": null,
+        "thumbFile": "Movie - The Meltdown [11879].resources/The Meltdown [11879].thumb.jpg",
+        "title": "The Meltdown",
+        "titleSort": "Meltdown",
+        "type": "movie",
+        "userRating": null,
+        "year": 2026,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2665,
+                "container": "mkv",
+                "duration": 6603933,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-01-16T17:09:41",
         "audienceRating": 9.4,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

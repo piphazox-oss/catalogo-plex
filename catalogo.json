@@ -2133,6 +2133,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-17T16:21:44",
+        "audienceRating": 4.6,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 4345600,
+        "durationHuman": "1 hr 12 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/5d776c3e51dd69001fe394b0",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/Alicia en el país de las maravillas (1976).mkv"
+        ],
+        "originalTitle": "Alicia en el país de las maravillas",
+        "originallyAvailableAt": "1976-12-09",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11880,
+        "studio": "EP Producciones",
+        "summary": "Alice is a pure-minded library worker who acts and dresses younger than her age. She rebuffs William because he can't quit habits she considers improper because she's a prude. While fantasizing about reliving her life a white bunny taps her on the shoulder and she follows him into Wonderland, where exciting animals and people expose her to creativity and pleasure.",
+        "tagline": null,
+        "thumbFile": "Movie - Alice in Wonderland [11880].resources/Alice in Wonderland [11880].thumb.jpg",
+        "title": "Alice in Wonderland",
+        "titleSort": "Alice in Wonderland",
+        "type": "movie",
+        "userRating": null,
+        "year": 1976,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2662,
+                "container": "mkv",
+                "duration": 4345600,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-10-07T16:33:55",
         "audienceRating": 9.4,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

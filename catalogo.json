@@ -49857,6 +49857,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-23T13:59:10",
+        "audienceRating": 6.5,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 5519733,
+        "durationHuman": "1 hr 32 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/6505f3b33651aec17d425fbf",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/Moon (2024).mkv"
+        ],
+        "originalTitle": "Mond",
+        "originallyAvailableAt": "2024-10-31",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11885,
+        "studio": "Ulrich Seidl Filmproduktion",
+        "summary": "A former martial artist hired to train three wealthy Jordanian sisters finds her \"dream job\" turning unsettling as the isolated young women are under constant surveillance and show no interest in the sport. Why was she really hired?",
+        "tagline": null,
+        "thumbFile": "Movie - Moon [11885].resources/Moon [11885].thumb.jpg",
+        "title": "Moon",
+        "titleSort": "Moon",
+        "type": "movie",
+        "userRating": null,
+        "year": 2024,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2664,
+                "container": "mkv",
+                "duration": 5519733,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2022-12-05T20:31:29",
         "audienceRating": 8.4,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

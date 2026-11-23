@@ -2556,6 +2556,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-23T10:42:37",
+        "audienceRating": 6.2,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 1274866,
+        "durationHuman": "21 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/607aa2aa66e6f4003503f7f4",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/ALIEN0089 (2023).mkv"
+        ],
+        "originalTitle": "AliEN0089",
+        "originallyAvailableAt": "2023-01-23",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11882,
+        "studio": "Mimbre Producciones",
+        "summary": "While a gamer uploads a testimonial video to denounce the harassment she suffers in a video game, a stranger enters her home and hacks her computer, blurring the boundaries between the real and virtual worlds.",
+        "tagline": null,
+        "thumbFile": "Movie - Alien0089 [11882].resources/Alien0089 [11882].thumb.jpg",
+        "title": "Alien0089",
+        "titleSort": "Alien0089",
+        "type": "movie",
+        "userRating": null,
+        "year": 2023,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2664,
+                "container": "mkv",
+                "duration": 1274866,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2024-10-16T20:45:13",
         "audienceRating": 4.6,
         "audienceRatingImage": "rottentomatoes://image.rating.spilled",
@@ -76664,9 +76711,10 @@
         "durationHuman": "1 hr 49 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d77686d8718ba001e31bc85",
-        "hasCreditsMarker": true,
+        "hasCreditsMarker": false,
         "locations": [
-            "/mnt/opelis3/Uncle Boonmee Who Can Recall His Past Lives (2010) [1080p] [BluRay] [5.1] [YTS.MX]/Uncle.Boonmee.Who.Can.Recall.His.Past.Lives.2010.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+            "/mnt/opelis3/Uncle Boonmee Who Can Recall His Past Lives (2010) [1080p] [BluRay] [5.1] [YTS.MX]/Uncle.Boonmee.Who.Can.Recall.His.Past.Lives.2010.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+            "/mnt/opelis4/Loong Boonmee raleuk chat (2010).mkv"
         ],
         "originalTitle": "ลุงบุญมีระลึกชาติ",
         "originallyAvailableAt": "2010-09-01",
@@ -76674,7 +76722,7 @@
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 4680,
         "studio": "Illuminations Films",
-        "summary": "Suffering from acute kidney failure, Boonmee has chosen to spend his final days surrounded by his loved ones in the countryside. Surprisingly, the ghost of his deceased wife appears to care for him, and his long lost son returns home in a non-human form. Contemplating the reasons for his illness, Boonmee treks through the jungle with his family to a mysterious hilltop cave—the birthplace of his first life.",
+        "summary": "Dying of kidney disease, a man spends his last, somber days with family, including the ghost of his wife and a forest spirit who used to be his son, on a rural northern Thailand farm.",
         "tagline": null,
         "thumbFile": "Movie - Uncle Boonmee Who Can Recall His Past Lives [4680].resources/Uncle Boonmee Who Can Recall His Past Lives [4680].thumb.jpg",
         "title": "Uncle Boonmee Who Can Recall His Past Lives",
@@ -76696,6 +76744,23 @@
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "PAL",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            },
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2665,
+                "container": "mkv",
+                "duration": 6539166,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920

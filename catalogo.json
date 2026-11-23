@@ -15426,17 +15426,17 @@
         "audienceRating": 7.9,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
         "contentRating": "PG",
-        "duration": 8980889,
+        "duration": 8980971,
         "durationHuman": "2 hrs 30 mins",
         "editionTitle": null,
         "guid": "plex://movie/5d776d1923d5a3001f52079e",
         "hasCreditsMarker": true,
         "locations": [
-            "/mnt/opelis2/Contact (1997)/Contact (1997).avi"
+            "/mnt/opelis2/Contact (1997) [1080p]/Contact.1997.1080p.BluRay.x264.YIFY.mp4"
         ],
         "originalTitle": null,
         "originallyAvailableAt": "1997-07-11",
-        "rating": 6.9,
+        "rating": 7.1,
         "ratingImage": "rottentomatoes://image.rating.ripe",
         "ratingKey": 1310,
         "studio": "South Side Amusement Company",
@@ -15452,19 +15452,19 @@
             {
                 "aspectRatio": 2.35,
                 "audioChannels": 2,
-                "audioCodec": "ac3",
-                "audioProfile": null,
-                "bitrate": 2096,
-                "container": "avi",
-                "duration": 8980889,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2067,
+                "container": "mp4",
+                "duration": 8980971,
                 "hdr": false,
-                "height": 304,
+                "height": 800,
                 "isOptimizedVersion": false,
-                "videoCodec": "mpeg4",
+                "videoCodec": "h264",
                 "videoFrameRate": "24p",
-                "videoProfile": "advanced simple",
-                "videoResolution": "sd",
-                "width": 720
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
             }
         ]
     },
@@ -49865,7 +49865,7 @@
         "durationHuman": "1 hr 32 mins",
         "editionTitle": null,
         "guid": "plex://movie/6505f3b33651aec17d425fbf",
-        "hasCreditsMarker": false,
+        "hasCreditsMarker": true,
         "locations": [
             "/mnt/opelis4/Moon (2024).mkv"
         ],

@@ -83290,6 +83290,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-24T17:32:40",
+        "audienceRating": 9.5,
+        "audienceRatingImage": "rottentomatoes://image.rating.upright",
+        "contentRating": "R",
+        "duration": 10473568,
+        "durationHuman": "2 hrs 55 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/6a9fd4ec7571c8758b8c2589",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/You Can See Everything (2026) [1080p] [WEBRip] [5.1] [YTS.GG - YTS.BZ]/You.Can.See.Everything.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG - YTS.BZ].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2026-10-16",
+        "rating": 9.7,
+        "ratingImage": "rottentomatoes://image.rating.ripe",
+        "ratingKey": 11888,
+        "studio": "Blow Out Productions",
+        "summary": "A month before she’s sent to prison, notorious Silicon Valley founder and felon Elizabeth Holmes invites Nathan Fielder and a film crew into her home to document her every move, spawning a mind-bending three-year journey that questions everything.",
+        "tagline": "See it to believe it.",
+        "thumbFile": "Movie - You Can See Everything [11888].resources/You Can See Everything [11888].thumb.jpg",
+        "title": "You Can See Everything",
+        "titleSort": "You Can See Everything",
+        "type": "movie",
+        "userRating": null,
+        "year": 2026,
+        "media": [
+            {
+                "aspectRatio": 1.33,
+                "audioChannels": 6,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2639,
+                "container": "mp4",
+                "duration": 10473568,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1440
+            }
+        ]
+    },
+    {
         "addedAt": "2025-04-07T19:36:54",
         "audienceRating": 7.4,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",

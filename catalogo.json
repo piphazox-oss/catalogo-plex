@@ -33686,6 +33686,53 @@
         ]
     },
     {
+        "addedAt": "2026-11-27T12:25:50",
+        "audienceRating": 3.4,
+        "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+        "contentRating": "R",
+        "duration": 6598816,
+        "durationHuman": "1 hr 50 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/680a28412172c8b03314bb7d",
+        "hasCreditsMarker": false,
+        "locations": [
+            "/mnt/opelis4/Her Private Hell (2026) [1080p] [WEBRip] [YTS.GG - YTS.BZ]/Her.Private.Hell.2026.1080p.WEBRip.x264.AAC-[YTS.GG - YTS.BZ].mp4"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2026-07-22",
+        "rating": 4.0,
+        "ratingImage": "rottentomatoes://image.rating.rotten",
+        "ratingKey": 11906,
+        "studio": "NEON",
+        "summary": "When a mysterious mist engulfs a futuristic metropolis, a deadly and elusive entity is unleashed. During this an American GI embarks on a harrowing odyssey to rescue his daughter from Hell. He crosses paths with a troubled young woman who is also searching for her father.",
+        "tagline": "Revenge wears leather.",
+        "thumbFile": "Movie - Her Private Hell [11906].resources/Her Private Hell [11906].thumb.jpg",
+        "title": "Her Private Hell",
+        "titleSort": "Her Private Hell",
+        "type": "movie",
+        "userRating": null,
+        "year": 2026,
+        "media": [
+            {
+                "aspectRatio": 2.35,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 1829,
+                "container": "mp4",
+                "duration": 6598816,
+                "hdr": false,
+                "height": 804,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "24p",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
         "addedAt": "2026-07-17T19:45:43",
         "audienceRating": 8.7,
         "audienceRatingImage": "rottentomatoes://image.rating.upright",
@@ -75662,6 +75709,53 @@
                 "isOptimizedVersion": false,
                 "videoCodec": "h264",
                 "videoFrameRate": "PAL",
+                "videoProfile": "high",
+                "videoResolution": "1080",
+                "width": 1920
+            }
+        ]
+    },
+    {
+        "addedAt": "2026-11-27T12:21:36",
+        "audienceRating": 6.9,
+        "audienceRatingImage": "imdb://image.rating",
+        "contentRating": null,
+        "duration": 1199500,
+        "durationHuman": "20 mins",
+        "editionTitle": null,
+        "guid": "plex://movie/60c0e77e053c3d002c523299",
+        "hasCreditsMarker": true,
+        "locations": [
+            "/mnt/opelis4/TRAIN AGAIN (2021).mkv"
+        ],
+        "originalTitle": null,
+        "originallyAvailableAt": "2021-07-13",
+        "rating": null,
+        "ratingImage": null,
+        "ratingKey": 11905,
+        "studio": "Land Niederösterreich Kultur",
+        "summary": "18 years after Kurt Kren produced his third film, he shot his masterpiece 37/78: Tree Again (1978). 18 years after I created my third darkroom film, I embarked on Train Again. This film is an homage to Kurt Kren that simultaneously taps into a classic motif in film history. My darkroom ride took a few years, but we finally arrived: All aboard.",
+        "tagline": null,
+        "thumbFile": "Movie - Train Again [11905].resources/Train Again [11905].thumb.jpg",
+        "title": "Train Again",
+        "titleSort": "Train Again",
+        "type": "movie",
+        "userRating": null,
+        "year": 2021,
+        "media": [
+            {
+                "aspectRatio": 1.78,
+                "audioChannels": 2,
+                "audioCodec": "aac",
+                "audioProfile": "lc",
+                "bitrate": 2662,
+                "container": "mkv",
+                "duration": 1199500,
+                "hdr": false,
+                "height": 1080,
+                "isOptimizedVersion": false,
+                "videoCodec": "h264",
+                "videoFrameRate": "NTSC",
                 "videoProfile": "high",
                 "videoResolution": "1080",
                 "width": 1920
